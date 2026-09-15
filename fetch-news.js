@@ -66,13 +66,18 @@ async function selectAndSummarize(items) {
     return [];
   }
 
+  console.log("Articles bruts envoyés à Claude :");
+  console.log(JSON.stringify(items, null, 2));
+
   const prompt = `Voici une liste brute d'articles d'actualité immobilière récents pour la région de Bordeaux, au format JSON :
 
 ${JSON.stringify(items, null, 2)}
 
-Sélectionne les 3 à 5 articles les PLUS pertinents pour un agent immobilier professionnel à Bordeaux (prix du marché, réglementation locative, volumes de transactions, quartiers en tension, taux, lois immobilières...). Ignore les doublons et le hors-sujet.
+Sélectionne jusqu'à 5 articles pertinents pour un agent immobilier professionnel à Bordeaux (prix du marché, réglementation locative, volumes de transactions, quartiers, taux, lois immobilières, mais aussi plus largement toute actualité économique ou locale utile à un professionnel de l'immobilier). Élimine seulement les doublons stricts et le contenu clairement hors-sujet (sport, faits divers, etc.).
 
-Réponds UNIQUEMENT avec un JSON valide, sans aucun texte autour, au format exact suivant :
+IMPORTANT : s'il y a moins de 5 articles disponibles, ou si aucun n'est parfaitement dans le cœur de cible, retourne quand même les articles les plus proches du sujet plutôt qu'une liste vide. Une liste vide n'est acceptable que si TOUS les articles fournis sont totalement hors-sujet (sport, fait divers sans lien avec l'immobilier, etc.).
+
+Réponds UNIQUEMENT avec un JSON valide, sans aucun texte autour, sans balises markdown, au format exact suivant :
 
 [
   {
@@ -103,7 +108,11 @@ Réponds UNIQUEMENT avec un JSON valide, sans aucun texte autour, au format exac
 
   const data = await response.json();
   const text = data.content.map((b) => b.text || "").join("\n").trim();
-  const cleaned = text.replace(/^```json\s*|```$/g, "").trim();
+
+  console.log("Réponse brute de Claude :");
+  console.log(text);
+
+  const cleaned = text.replace(/^```(json)?\s*/i, "").replace(/```\s*$/, "").trim();
 
   return JSON.parse(cleaned);
 }
