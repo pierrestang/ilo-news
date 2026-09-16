@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-16T06:15:06.614Z",
+  "updated_at": "2026-09-16T10:56:27.595Z",
   "articles": [
     {
-      "title": "Barbezieux : un permis de louer obligatoire avant toute mise en location dès octobre",
+      "title": "Barbezieux : un permis de louer obligatoire avant toute mise en location",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/charente/barbezieux-saint-hilaire/barbezieux-saint-hilaire-les-proprietaires-devront-montrer-patte-blanche-avant-de-louer-30570182.php",
       "published_label": "hier"
     },
     {
-      "title": "Marmande : des friches industrielles bientôt converties en logements avec des promoteurs",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/politique/urbanisme/j-avais-des-ambitions-pour-cette-friche-mais-je-pense-qu-il-va-falloir-regler-le-sujet-avec-un-promoteur-pour-de-l-habitat-ou-en-sont-ces-autres-friches-marmandaises-30625520.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Gironde : nouveaux dirigeants élus à la Fédération française du bâtiment",
+      "title": "Gironde : nouveaux dirigeants pour la Fédération française du bâtiment",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/gironde-de-nouveaux-president-et-vice-president-pour-la-federation-francaise-du-batiment-30637897.php",
       "published_label": "hier"
@@ -26,9 +20,15 @@
       "published_label": "hier"
     },
     {
-      "title": "Agen : des propriétaires contraints de démolir leurs immeubles après un incendie voisin",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/lot-et-garonne/agen/nous-ne-sommes-pas-responsables-mais-condamnes-a-demolir-nos-immeubles-apres-l-incendie-de-la-rue-garonne-a-agen-les-proprietaires-victimes-collaterales-du-sinistre-30580837.php",
+      "title": "Locataire parti avant la fin du bail : il reste tenu de payer le loyer",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/meme-si-le-locataire-quitte-son-logement-plus-tot-il-doit-continuer-a-payer-le-loyer-jusqu-a-la-fin-du-bail-20260914",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Investir dans un parking : toujours une bonne idée ?",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/14/est-ce-toujours-une-bonne-idee-d-investir-dans-un-parking_6773352_3234.html",
       "published_label": "avant-hier"
     }
   ]
