@@ -22,9 +22,10 @@ import fs from "fs/promises";
 // ---------------------------------------------------------------
 const RSS_FEEDS = [
   { name: "Sud Ouest", url: "https://www.sudouest.fr/economie/immobilier/rss.xml" },
-  // Ajoute ici d'autres flux quand tu en trouves de fiables, ex :
-  // { name: "Les Échos", url: "https://..." },
-  // { name: "Notaires de Gironde", url: "https://..." },
+  { name: "Le Figaro Immobilier", url: "https://www.lefigaro.fr/rss/figaro_immobilier.xml" },
+  { name: "Le Monde Immobilier", url: "https://www.lemonde.fr/immobilier/rss_full.xml" },
+  { name: "20 Minutes Bordeaux", url: "https://www.20minutes.fr/feeds/rss-bordeaux.xml" },
+  // Ajoute ici d'autres flux quand tu en trouves de fiables.
 ];
 
 // Ne garder que les articles publiés dans cette fenêtre (en heures)
