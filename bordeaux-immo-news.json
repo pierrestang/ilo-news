@@ -1,23 +1,35 @@
 {
-  "updated_at": "2026-09-15T10:43:40.044Z",
+  "updated_at": "2026-09-16T06:15:06.614Z",
   "articles": [
     {
-      "title": "Bâtiments en péril à Marmande : permis de démolition signés pour plusieurs friches",
+      "title": "Barbezieux : un permis de louer obligatoire avant toute mise en location dès octobre",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/charente/barbezieux-saint-hilaire/barbezieux-saint-hilaire-les-proprietaires-devront-montrer-patte-blanche-avant-de-louer-30570182.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Marmande : des friches industrielles bientôt converties en logements avec des promoteurs",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/politique/urbanisme/j-avais-des-ambitions-pour-cette-friche-mais-je-pense-qu-il-va-falloir-regler-le-sujet-avec-un-promoteur-pour-de-l-habitat-ou-en-sont-ces-autres-friches-marmandaises-30625520.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Gironde : nouveaux dirigeants élus à la Fédération française du bâtiment",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/gironde-de-nouveaux-president-et-vice-president-pour-la-federation-francaise-du-batiment-30637897.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Marmande : des permis de démolition signés pour plusieurs bâtiments en péril",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/politique/urbanisme/on-a-signe-des-permis-de-demolition-messageries-immeuble-deldon-adouberies-enfin-le-bout-du-tunnel-pour-ces-batiments-en-peril-a-marmande-30614997.php",
       "published_label": "hier"
     },
     {
-      "title": "Incendie rue Garonne à Agen : des propriétaires contraints de démolir leurs immeubles",
+      "title": "Agen : des propriétaires contraints de démolir leurs immeubles après un incendie voisin",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/lot-et-garonne/agen/nous-ne-sommes-pas-responsables-mais-condamnes-a-demolir-nos-immeubles-apres-l-incendie-de-la-rue-garonne-a-agen-les-proprietaires-victimes-collaterales-du-sinistre-30580837.php",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Dordogne : les anciens jardins du Bouquet reprennent vie avec un projet événementiel",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/dordogne/sorges-et-ligueux-en-perigord/c-est-a-nous-de-jouer-en-dordogne-les-anciens-jardins-du-bouquet-ont-trouve-repreneurs-30295520.php",
-      "published_label": "il y a 3 jours"
+      "published_label": "avant-hier"
     }
   ]
 }
