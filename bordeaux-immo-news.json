@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-17T06:15:14.772Z",
+  "updated_at": "2026-09-18T06:14:44.287Z",
   "articles": [
     {
-      "title": "Vendeurs acceptant de grosses décotes pour ne pas perdre leur acheteur en 2026",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/je-suis-ravie-d-avoir-vendu-ma-maison-meme-a-60-000-euros-de-moins-ces-proprietaires-ont-prefere-perdre-de-l-argent-plutot-que-de-perdre-leur-acheteur-20260917",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Loi SRU : les promoteurs affirment qu'elle fait grimper les prix du neuf de 10 à 15 %",
+      "title": "Loi SRU : les promoteurs affirment qu'elle fait grimper les prix de l'immobilier neuf",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/la-loi-sru-nous-oblige-a-augmenter-de-10-a-15-les-prix-de-vente-des-logements-prives-pourquoi-les-promoteurs-affirment-que-le-logement-social-fait-grimper-l-immobilier-neuf-20260917",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Offre d'achat sans adresse ni conditions de financement : elle ne vaut rien juridiquement",
+      "title": "Vendeurs qui acceptent une forte décote pour ne pas perdre leur acheteur en 2026",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/si-un-acquereur-oublie-de-mentionner-l-adresse-du-logement-dans-son-offre-d-achat-cette-offre-ne-vaut-rien-20260917",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Barbezieux-Saint-Hilaire relance son permis de louer dès le 1er octobre",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/charente/barbezieux-saint-hilaire/barbezieux-saint-hilaire-les-proprietaires-devront-montrer-patte-blanche-avant-de-louer-30570182.php",
-      "published_label": "avant-hier"
+      "url": "https://immobilier.lefigaro.fr/article/je-suis-ravie-d-avoir-vendu-ma-maison-meme-a-60-000-euros-de-moins-ces-proprietaires-ont-prefere-perdre-de-l-argent-plutot-que-de-perdre-leur-acheteur-20260917",
+      "published_label": "hier"
     },
     {
       "title": "Gironde : nouveaux président et vice-président pour la Fédération française du bâtiment",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/gironde-de-nouveaux-president-et-vice-president-pour-la-federation-francaise-du-batiment-30637897.php",
-      "published_label": "avant-hier"
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Loyers en hausse de 20% en 5 ans : Fabien Roussel a-t-il gonflé la réalité ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/les-loyers-ont-augmente-de-20-en-5-ans-fabien-roussel-a-t-il-gonfle-la-realite-20260918",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Permis de louer relancé à Barbezieux : contrôle obligatoire avant toute mise en location",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/charente/barbezieux-saint-hilaire/barbezieux-saint-hilaire-les-proprietaires-devront-montrer-patte-blanche-avant-de-louer-30570182.php",
+      "published_label": "il y a 2 jours"
     }
   ]
 }
