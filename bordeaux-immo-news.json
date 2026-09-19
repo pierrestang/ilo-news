@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-18T06:14:44.287Z",
+  "updated_at": "2026-09-19T06:13:42.111Z",
   "articles": [
     {
-      "title": "Loi SRU : les promoteurs affirment qu'elle fait grimper les prix de l'immobilier neuf",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/la-loi-sru-nous-oblige-a-augmenter-de-10-a-15-les-prix-de-vente-des-logements-prives-pourquoi-les-promoteurs-affirment-que-le-logement-social-fait-grimper-l-immobilier-neuf-20260917",
+      "title": "Bordeaux : le nouveau quartier Canopia livré fin 2027, une des plus grandes réhabs privées de France",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4246263-20260918-bordeaux-promenera-jour-comme-nuit-nouveau-quartier-canopia?at_medium=display&at_campaign=149",
       "published_label": "hier"
     },
     {
-      "title": "Vendeurs qui acceptent une forte décote pour ne pas perdre leur acheteur en 2026",
+      "title": "Prêt immobilier : est-il encore possible de décrocher un taux à moins de 3% ?",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/je-suis-ravie-d-avoir-vendu-ma-maison-meme-a-60-000-euros-de-moins-ces-proprietaires-ont-prefere-perdre-de-l-argent-plutot-que-de-perdre-leur-acheteur-20260917",
+      "url": "https://immobilier.lefigaro.fr/article/le-ton-va-changer-chez-les-banques-est-il-encore-possible-de-decrocher-un-pret-a-moins-de-3-20260918",
       "published_label": "hier"
     },
     {
-      "title": "Gironde : nouveaux président et vice-président pour la Fédération française du bâtiment",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/gironde-de-nouveaux-president-et-vice-president-pour-la-federation-francaise-du-batiment-30637897.php",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Loyers en hausse de 20% en 5 ans : Fabien Roussel a-t-il gonflé la réalité ?",
+      "title": "Immobilier : prix et tendances dans plus de 1000 villes, la reprise reste fragile",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/les-loyers-ont-augmente-de-20-en-5-ans-fabien-roussel-a-t-il-gonfle-la-realite-20260918",
+      "url": "https://immobilier.lefigaro.fr/article/immobilier-decouvrez-les-derniers-prix-dans-plus-de-1000-villes-en-regions-20260919",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Permis de louer relancé à Barbezieux : contrôle obligatoire avant toute mise en location",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/charente/barbezieux-saint-hilaire/barbezieux-saint-hilaire-les-proprietaires-devront-montrer-patte-blanche-avant-de-louer-30570182.php",
-      "published_label": "il y a 2 jours"
+      "title": "Loi SRU : les promoteurs affirment qu'elle fait grimper les prix du neuf de 10 à 15%",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-loi-sru-nous-oblige-a-augmenter-de-10-a-15-les-prix-de-vente-des-logements-prives-pourquoi-les-promoteurs-affirment-que-le-logement-social-fait-grimper-l-immobilier-neuf-20260917",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Loueurs en meublé : qui est concerné par la hausse de la CSG sur les revenus 2025 ?",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/19/qui-sont-les-loueurs-en-meuble-concernes-par-la-hausse-de-la-csg_6777222_1657007.html",
+      "published_label": "aujourd'hui"
     }
   ]
 }
