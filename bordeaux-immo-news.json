@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-19T06:13:42.111Z",
+  "updated_at": "2026-09-20T06:14:30.679Z",
   "articles": [
     {
-      "title": "Bordeaux : le nouveau quartier Canopia livré fin 2027, une des plus grandes réhabs privées de France",
+      "title": "Les APL seront gelées en 2027 : les économies budgétaires impactent le logement",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/logement-on-fait-des-economies-les-apl-seront-gelees-en-2027-30700622.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Bordeaux : le nouveau quartier Canopia livré fin 2027 près de la gare Saint-Jean",
       "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4246263-20260918-bordeaux-promenera-jour-comme-nuit-nouveau-quartier-canopia?at_medium=display&at_campaign=149",
+      "url": "https://www.20minutes.fr/societe/4246263-20260918-bordeaux-promenera-jour-comme-nuit-nouveau-quartier-canopia",
       "published_label": "hier"
     },
     {
-      "title": "Prêt immobilier : est-il encore possible de décrocher un taux à moins de 3% ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/le-ton-va-changer-chez-les-banques-est-il-encore-possible-de-decrocher-un-pret-a-moins-de-3-20260918",
-      "published_label": "hier"
-    },
-    {
-      "title": "Immobilier : prix et tendances dans plus de 1000 villes, la reprise reste fragile",
+      "title": "Immobilier : prix et tendances dans plus de 1000 villes en régions",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/immobilier-decouvrez-les-derniers-prix-dans-plus-de-1000-villes-en-regions-20260919",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Loi SRU : les promoteurs affirment qu'elle fait grimper les prix du neuf de 10 à 15%",
+      "title": "Prêt immobilier à moins de 3% : est-ce encore possible avant le durcissement bancaire ?",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/la-loi-sru-nous-oblige-a-augmenter-de-10-a-15-les-prix-de-vente-des-logements-prives-pourquoi-les-promoteurs-affirment-que-le-logement-social-fait-grimper-l-immobilier-neuf-20260917",
+      "url": "https://immobilier.lefigaro.fr/article/le-ton-va-changer-chez-les-banques-est-il-encore-possible-de-decrocher-un-pret-a-moins-de-3-20260918",
       "published_label": "avant-hier"
     },
     {
-      "title": "Loueurs en meublé : qui est concerné par la hausse de la CSG sur les revenus 2025 ?",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/19/qui-sont-les-loueurs-en-meuble-concernes-par-la-hausse-de-la-csg_6777222_1657007.html",
-      "published_label": "aujourd'hui"
+      "title": "Plus-values immobilières : comment échapper à l'impôt en toute légalité ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/plus-values-immobilieres-sur-les-biens-locatifs-et-residences-secondaires-dans-quels-cas-echapper-a-l-impot-en-toute-legalite-20260919",
+      "published_label": "hier"
     }
   ]
 }
