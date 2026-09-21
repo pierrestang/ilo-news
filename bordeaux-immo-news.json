@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-20T06:14:30.679Z",
+  "updated_at": "2026-09-21T06:16:19.253Z",
   "articles": [
     {
-      "title": "Les APL seront gelées en 2027 : les économies budgétaires impactent le logement",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/logement-on-fait-des-economies-les-apl-seront-gelees-en-2027-30700622.php",
-      "published_label": "hier"
+      "title": "Immobilier : avec la hausse des taux, l'horizon s'assombrit",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/21/immobilier-avec-l-augmentation-des-taux-l-horizon-s-assombrit_6778771_1657007.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Est-il encore temps de concrétiser son projet immobilier avant la hausse des taux ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/et-si-c-etait-le-moment-de-concretiser-son-projet-immobilier-avant-la-hausse-des-taux-et-la-campagne-electorale-20260921",
+      "published_label": "ce matin"
     },
     {
       "title": "Bordeaux : le nouveau quartier Canopia livré fin 2027 près de la gare Saint-Jean",
       "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4246263-20260918-bordeaux-promenera-jour-comme-nuit-nouveau-quartier-canopia",
+      "url": "https://www.20minutes.fr/societe/4246263-20260918-bordeaux-promenera-jour-comme-nuit-nouveau-quartier-canopia?at_medium=display&at_campaign=149",
       "published_label": "hier"
     },
     {
-      "title": "Immobilier : prix et tendances dans plus de 1000 villes en régions",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/immobilier-decouvrez-les-derniers-prix-dans-plus-de-1000-villes-en-regions-20260919",
-      "published_label": "hier"
-    },
-    {
-      "title": "Prêt immobilier à moins de 3% : est-ce encore possible avant le durcissement bancaire ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/le-ton-va-changer-chez-les-banques-est-il-encore-possible-de-decrocher-un-pret-a-moins-de-3-20260918",
+      "title": "Les APL gelées en 2027 : impact pour les locataires et le marché du logement",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/logement-on-fait-des-economies-les-apl-seront-gelees-en-2027-30700622.php",
       "published_label": "avant-hier"
     },
     {
-      "title": "Plus-values immobilières : comment échapper à l'impôt en toute légalité ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/plus-values-immobilieres-sur-les-biens-locatifs-et-residences-secondaires-dans-quels-cas-echapper-a-l-impot-en-toute-legalite-20260919",
-      "published_label": "hier"
+      "title": "Loueurs en meublé : qui est concerné par la hausse de la CSG sur les revenus 2025 ?",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/19/qui-sont-les-loueurs-en-meuble-concernes-par-la-hausse-de-la-csg_6777222_1657007.html",
+      "published_label": "avant-hier"
     }
   ]
 }
