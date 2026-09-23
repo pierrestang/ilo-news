@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-22T06:14:31.396Z",
+  "updated_at": "2026-09-23T06:14:53.569Z",
   "articles": [
     {
-      "title": "Taxe foncière dans le Sud-Ouest : évolution dans votre ville depuis 2019",
+      "title": "En Libournais, le marché immobilier retrouve le niveau d'avant Covid",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/libourne/les-acquereurs-en-position-de-force-en-libournais-le-marche-de-l-immobilier-retrouve-le-niveau-d-avant-les-annees-covid-30668716.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Taux des crédits immobiliers : pourquoi ils risquent encore d'augmenter",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/23/pourquoi-les-taux-des-credits-immobiliers-risquent-encore-d-augmenter_6780578_1657007.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Marché immobilier : la stagnation se poursuit face à l'attentisme des acheteurs",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/21/sur-le-marche-immobilier-la-stagnation-se-poursuit_6779212_1657007.html",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Taxe foncière dans le Sud-Ouest : son évolution dans votre ville depuis 2019",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/impots-locaux/taxe-fonciere-dans-le-sud-ouest-comment-a-t-elle-evolue-dans-votre-ville-depuis-2019-decouvrez-le-avec-notre-moteur-de-recherche-30720999.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Les APL seront gelées en 2027 : impact sur le marché locatif",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/logement-on-fait-des-economies-les-apl-seront-gelees-en-2027-30700622.php",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "C'est le moment de concrétiser un projet immobilier avant la hausse des taux ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/et-si-c-etait-le-moment-de-concretiser-son-projet-immobilier-avant-la-hausse-des-taux-et-la-campagne-electorale-20260921",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
       "title": "Les jeunes ne peuvent quasiment plus acheter sans aide familiale",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/les-jeunes-ne-peuvent-quasiment-plus-acheter-sans-une-aide-familiale-20260920",
-      "published_label": "avant-hier"
-    },
-    {
-      "title": "Marché immobilier : la stagnation se poursuit face aux incertitudes et à la hausse des taux",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/21/sur-le-marche-immobilier-la-stagnation-se-poursuit_6779212_1657007.html",
       "published_label": "hier"
     }
   ]
