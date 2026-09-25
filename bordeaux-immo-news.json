@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-24T06:14:35.309Z",
+  "updated_at": "2026-09-25T06:14:23.663Z",
   "articles": [
     {
-      "title": "En Libournais, le marché immobilier retrouve le niveau d'avant-Covid",
+      "title": "En Libournais, le marché immobilier retrouve le niveau d'avant Covid",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/libourne/les-acquereurs-en-position-de-force-en-libournais-le-marche-de-l-immobilier-retrouve-le-niveau-d-avant-les-annees-covid-30668716.php",
-      "published_label": "hier"
+      "published_label": "il y a 3 jours"
     },
     {
       "title": "Pourquoi les taux des crédits immobiliers risquent encore d'augmenter",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/09/23/pourquoi-les-taux-des-credits-immobiliers-risquent-encore-d-augmenter_6780578_1657007.html",
-      "published_label": "hier"
-    },
-    {
-      "title": "Incendies en Gironde : reconstruire en trois ans maximum, selon le ministre",
-      "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4248177-20260923-incendies-gironde-ministre-veut-reconstruire-plus-vite-dame-paris-trois-ans-maximum?at_medium=display&at_campaign=149",
-      "published_label": "hier"
-    },
-    {
-      "title": "Taxe foncière dans le Sud-Ouest : son évolution dans votre ville depuis 2019",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/impots-locaux/taxe-fonciere-dans-le-sud-ouest-comment-a-t-elle-evolue-dans-votre-ville-depuis-2019-decouvrez-le-avec-notre-moteur-de-recherche-30720999.php",
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Congrès HLM à Bordeaux : le secteur interpelle les candidats à la présidentielle 2027",
+      "title": "Logement social à Bordeaux : le défi de l'habitabilité en période de canicule",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/on-n-est-pas-la-pour-mettre-en-oeuvre-des-lubies-xenophobes-a-bordeaux-le-86e-congres-du-hlm-prend-un-tour-politique-30735031.php",
-      "published_label": "hier"
+      "url": "https://www.sudouest.fr/gironde/bordeaux/nous-sommes-en-situation-d-urgence-a-bordeaux-le-logement-social-au-defi-de-l-habitabilite-par-temps-de-canicule-30754748.php",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Bordeaux : la tour CPAM au Grand Parc, un enjeu de redynamisation du quartier",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-faire-de-la-transformation-de-la-tour-de-la-cpam-un-enjeu-de-redynamisation-du-grand-parc-30746505.php",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Est-ce le bon moment pour concrétiser un projet immobilier avant la hausse des taux ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/et-si-c-etait-le-moment-de-concretiser-son-projet-immobilier-avant-la-hausse-des-taux-et-la-campagne-electorale-20260921",
+      "published_label": "il y a 3 jours"
     }
   ]
 }
