@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-25T06:14:23.663Z",
+  "updated_at": "2026-09-26T06:14:24.091Z",
   "articles": [
     {
-      "title": "En Libournais, le marché immobilier retrouve le niveau d'avant Covid",
+      "title": "Bordeaux : nouvelle résidence Kubic pour la mixité sociale aux Aubiers",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/libourne/les-acquereurs-en-position-de-force-en-libournais-le-marche-de-l-immobilier-retrouve-le-niveau-d-avant-les-annees-covid-30668716.php",
-      "published_label": "il y a 3 jours"
+      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-kubic-une-nouvelle-pierre-pour-la-mixite-sociale-dans-le-quartier-des-aubiers-30769169.php",
+      "published_label": "hier"
     },
     {
-      "title": "Pourquoi les taux des crédits immobiliers risquent encore d'augmenter",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/23/pourquoi-les-taux-des-credits-immobiliers-risquent-encore-d-augmenter_6780578_1657007.html",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Logement social à Bordeaux : le défi de l'habitabilité en période de canicule",
+      "title": "Logement social à Bordeaux : l'habitabilité en canicule, enjeu du congrès HLM",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/nous-sommes-en-situation-d-urgence-a-bordeaux-le-logement-social-au-defi-de-l-habitabilite-par-temps-de-canicule-30754748.php",
-      "published_label": "il y a 2 jours"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Bordeaux : la tour CPAM au Grand Parc, un enjeu de redynamisation du quartier",
+      "title": "Tour de la CPAM au Grand Parc : une opportunité de redynamisation pour Bordeaux",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-faire-de-la-transformation-de-la-tour-de-la-cpam-un-enjeu-de-redynamisation-du-grand-parc-30746505.php",
-      "published_label": "il y a 2 jours"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Est-ce le bon moment pour concrétiser un projet immobilier avant la hausse des taux ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/et-si-c-etait-le-moment-de-concretiser-son-projet-immobilier-avant-la-hausse-des-taux-et-la-campagne-electorale-20260921",
-      "published_label": "il y a 3 jours"
+      "title": "Plafonnement des loyers en Île-de-France : des hausses freinées mais 40 % de baux hors plafond",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/immobilier/logement-le-plafonnement-experimental-des-loyers-en-region-parisienne-a-freine-les-hausses-des-prix-mais-n-a-pas-stoppe-les-abus-30763929.php",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Incendies en Gironde : le gouvernement vise une reconstruction en trois ans maximum",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4248177-20260923-incendies-gironde-ministre-veut-reconstruire-plus-vite-dame-paris-trois-ans-maximum?at_medium=display&at_campaign=149",
+      "published_label": "avant-hier"
     }
   ]
 }
