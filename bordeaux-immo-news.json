@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-27T06:14:37.184Z",
+  "updated_at": "2026-09-28T06:15:57.099Z",
   "articles": [
     {
-      "title": "Bordeaux : résidence Kubic inaugurée aux Aubiers pour la mixité sociale",
+      "title": "Bordeaux : nouvelle résidence pour la mixité sociale dans le quartier des Aubiers",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-kubic-une-nouvelle-pierre-pour-la-mixite-sociale-dans-le-quartier-des-aubiers-30769169.php",
-      "published_label": "hier"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "Pessac : les locataires de La Châtaigneraie réclament une réhabilitation urgente",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/pessac/ca-devient-invivable-a-la-residence-la-chataigneraie-les-locataires-reclament-une-rehabilitation-30753242.php",
-      "published_label": "avant-hier"
+      "title": "Location saisonnière : le durcissement des règles aurait un impact limité sur l'offre",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/pourquoi-le-durcissement-des-regles-de-la-location-saisonniere-aurait-un-impact-tres-limite-sur-l-offre-de-logements-20260928",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Bordeaux : la tour CPAM au Grand Parc, un levier de redynamisation du quartier",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-faire-de-la-transformation-de-la-tour-de-la-cpam-un-enjeu-de-redynamisation-du-grand-parc-30746505.php",
-      "published_label": "avant-hier"
+      "title": "Rennes impose un permis de louer aux propriétaires, sous peine de 15 000 € d'amende",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/jusqu-a-15-000-euros-d-amende-rennes-va-imposer-aux-proprietaires-un-permis-de-louer-20260926",
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Encadrement des loyers : bilan mitigé en Île-de-France, plus de 40 % des baux hors plafond",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/logement-le-plafonnement-experimental-des-loyers-en-region-parisienne-a-freine-les-hausses-des-prix-mais-n-a-pas-stoppe-les-abus-30763929.php",
-      "published_label": "avant-hier"
-    },
-    {
-      "title": "Près de 1 000 épargnants bloqués dans la liquidation d'une SCPI",
+      "title": "Crédit immobilier : la Cour de cassation resserre l'étau sur les emprunteurs défaillants",
       "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/25/pres-de-1-000-epargnants-coinces-dans-la-liquidation-d-une-scpi_6782468_1657007.html",
-      "published_label": "hier"
+      "url": "https://www.lemonde.fr/argent/article/2026/09/26/credit-immobilier-la-cour-de-cassation-resserre-l-etau-sur-les-emprunteurs-qui-ne-remboursent-pas_6783012_1657007.html",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "L'immobilier face au « tsunami » de l'intelligence artificielle",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/28/l-immobilier-face-au-tsunami-de-l-intelligence-artificielle_6784868_1657007.html",
+      "published_label": "aujourd'hui"
     }
   ]
 }
