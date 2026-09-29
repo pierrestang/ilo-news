@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-28T06:15:57.099Z",
+  "updated_at": "2026-09-29T06:14:56.129Z",
   "articles": [
     {
-      "title": "Bordeaux : nouvelle résidence pour la mixité sociale dans le quartier des Aubiers",
+      "title": "Taxe foncière : pourquoi un \"choc fiscal\" est à craindre dans quelques années",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-kubic-une-nouvelle-pierre-pour-la-mixite-sociale-dans-le-quartier-des-aubiers-30769169.php",
+      "url": "https://www.sudouest.fr/economie/impots-locaux/taxe-fonciere-une-injustice-pourquoi-un-choc-fiscal-est-il-a-craindre-dans-quelques-annees-30815061.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Permis de louer : Rennes l'instaure, jusqu'à 15 000 € d'amende pour les propriétaires",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/jusqu-a-15-000-euros-d-amende-rennes-va-imposer-aux-proprietaires-un-permis-de-louer-20260926",
       "published_label": "il y a 3 jours"
     },
     {
-      "title": "Location saisonnière : le durcissement des règles aurait un impact limité sur l'offre",
+      "title": "Location saisonnière : le durcissement des règles aurait un impact limité sur l'offre de logements",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pourquoi-le-durcissement-des-regles-de-la-location-saisonniere-aurait-un-impact-tres-limite-sur-l-offre-de-logements-20260928",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Rennes impose un permis de louer aux propriétaires, sous peine de 15 000 € d'amende",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/jusqu-a-15-000-euros-d-amende-rennes-va-imposer-aux-proprietaires-un-permis-de-louer-20260926",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Crédit immobilier : la Cour de cassation resserre l'étau sur les emprunteurs défaillants",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/26/credit-immobilier-la-cour-de-cassation-resserre-l-etau-sur-les-emprunteurs-qui-ne-remboursent-pas_6783012_1657007.html",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "L'immobilier face au « tsunami » de l'intelligence artificielle",
+      "title": "L'immobilier face au \"tsunami\" de l'intelligence artificielle",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/09/28/l-immobilier-face-au-tsunami-de-l-intelligence-artificielle_6784868_1657007.html",
+      "published_label": "hier"
+    },
+    {
+      "title": "Mégafeu en Gironde : plus de 180 habitations détruites au Porge sur 42 000 hectares brûlés",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4249611-20260929-incendie-megafeu-ravage-gironde-officiellement-eteint?at_medium=display&at_campaign=149",
       "published_label": "aujourd'hui"
     }
   ]
