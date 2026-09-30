@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-09-29T06:14:56.129Z",
+  "updated_at": "2026-09-30T06:15:12.761Z",
   "articles": [
     {
-      "title": "Taxe foncière : pourquoi un \"choc fiscal\" est à craindre dans quelques années",
+      "title": "Nouveaux contrats de location : ce qui change au 1er octobre 2026",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/loyers-impayes-servitudes-ce-qui-change-vraiment-dans-les-contrats-de-location-signes-a-partir-du-1er-octobre-2026-20260930",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Dispositif Jeanbrun : l'investissement locatif peine à séduire six mois après",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/30/investissement-locatif-pourquoi-le-dispositif-jeanbrun-ne-tient-pas-ses-promesses_6785967_1657007.html",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Taxe foncière : un choc fiscal à craindre lors de la révision des bases en 2031",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/impots-locaux/taxe-fonciere-une-injustice-pourquoi-un-choc-fiscal-est-il-a-craindre-dans-quelques-annees-30815061.php",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Permis de louer : Rennes l'instaure, jusqu'à 15 000 € d'amende pour les propriétaires",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/jusqu-a-15-000-euros-d-amende-rennes-va-imposer-aux-proprietaires-un-permis-de-louer-20260926",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "Location saisonnière : le durcissement des règles aurait un impact limité sur l'offre de logements",
+      "title": "Location saisonnière : le durcissement des règles aurait peu d'impact sur l'offre",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pourquoi-le-durcissement-des-regles-de-la-location-saisonniere-aurait-un-impact-tres-limite-sur-l-offre-de-logements-20260928",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "L'immobilier face au \"tsunami\" de l'intelligence artificielle",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/28/l-immobilier-face-au-tsunami-de-l-intelligence-artificielle_6784868_1657007.html",
-      "published_label": "hier"
-    },
-    {
-      "title": "Mégafeu en Gironde : plus de 180 habitations détruites au Porge sur 42 000 hectares brûlés",
+      "title": "Mégafeu en Gironde éteint : plus de 180 habitations détruites au Porge",
       "source": "20 Minutes Bordeaux",
       "url": "https://www.20minutes.fr/societe/4249611-20260929-incendie-megafeu-ravage-gironde-officiellement-eteint?at_medium=display&at_campaign=149",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     }
   ]
 }
