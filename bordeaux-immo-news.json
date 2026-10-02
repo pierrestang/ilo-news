@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-01T06:16:48.916Z",
+  "updated_at": "2026-10-02T06:15:06.882Z",
   "articles": [
+    {
+      "title": "Budget 2027 : la location meublée (LMNP) dans le viseur du gouvernement",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/budget-2027-c-est-une-nouvelle-hausse-d-impot-sur-les-proprietaires-la-location-meublee-est-dans-le-viseur-du-gouvernement-20261002",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Crédit immobilier : la flambée des taux ravive les craintes de blocage",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/credit-immobilier-la-flambee-des-taux-ravive-les-craintes-de-blocage-20261001",
+      "published_label": "hier"
+    },
     {
       "title": "Nouveaux contrats de location : ce qui change au 1er octobre 2026",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/loyers-impayes-servitudes-ce-qui-change-vraiment-dans-les-contrats-de-location-signes-a-partir-du-1er-octobre-2026-20260930",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Incendie en Gironde : un code couleur pour reconstruire les maisons sinistrées",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-en-gironde-un-code-couleur-vert-orange-et-rouge-pour-reconstruire-les-maisons-detruites-par-le-feu-30854594.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Dispositif Jeanbrun : le nouveau régime d'investissement locatif peine à séduire",
+      "title": "Investissement locatif : le dispositif Jeanbrun peine à séduire",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/09/30/investissement-locatif-pourquoi-le-dispositif-jeanbrun-ne-tient-pas-ses-promesses_6785967_1657007.html",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Vasco, la start-up bordelaise qui finance la rénovation en échange d'une part du bien",
+      "title": "Vasco, la startup bordelaise qui rénove sans emprunt contre une part du bien",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-renover-sans-s-endetter-en-echange-d-une-partie-du-bien-la-solution-de-vasco-semble-faire-mouche-30835752.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Revalorisation des APL et hausse du gaz : ce qui change au 1er octobre 2026",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/achat/aide-aux-grands-rouleurs-prix-du-gaz-aides-au-logement-franchises-medicales-tout-ce-qui-va-changer-au-1er-octobre-2026-30847641.php",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     }
   ]
 }
