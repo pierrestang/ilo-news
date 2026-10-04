@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-03T06:19:20.190Z",
+  "updated_at": "2026-10-04T11:21:07.642Z",
   "articles": [
     {
-      "title": "Budget 2027 : la fiscalité de la location meublée et Airbnb alourdie",
+      "title": "Budget 2027 : la fiscalité de la location meublée (LMNP) et Airbnb alourdie",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/impots/immobilier-le-gouvernement-veut-alourdir-la-fiscalite-de-la-location-meublee-et-de-type-airbnb-30875487.php",
-      "published_label": "il y a 2 jours"
+      "published_label": "il y a 3 jours"
     },
     {
       "title": "Crédit immobilier : la flambée des taux ravive les craintes de blocage",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/credit-immobilier-la-flambee-des-taux-ravive-les-craintes-de-blocage-20261001",
+      "published_label": "il y a 3 jours"
+    },
+    {
+      "title": "Budget 2027 : fin des avantages fiscaux pour la location meublée non professionnelle",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/budget-2027-c-est-une-nouvelle-hausse-d-impot-sur-les-proprietaires-la-location-meublee-est-dans-le-viseur-du-gouvernement-20261002",
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Reconstruction après le mégafeu de Saumos : un code couleur inédit en Gironde",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-en-gironde-un-code-couleur-vert-orange-et-rouge-pour-reconstruire-les-maisons-detruites-par-le-feu-30854594.php",
-      "published_label": "il y a 3 jours"
+      "title": "APL ou rattachement fiscal des parents : il faudra choisir dès le Budget 2027",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/apl-ou-rattachement-au-foyer-fiscal-des-parents-il-faudra-choisir-20261001",
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Rénover sans s'endetter contre une part du bien : la solution bordelaise Vasco",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-renover-sans-s-endetter-en-echange-d-une-partie-du-bien-la-solution-de-vasco-semble-faire-mouche-30835752.php",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "APL revalorisées au 1er octobre 2026 : ce qui change pour les locataires",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/achat/aide-aux-grands-rouleurs-prix-du-gaz-aides-au-logement-franchises-medicales-tout-ce-qui-va-changer-au-1er-octobre-2026-30847641.php",
+      "title": "SeLoger rachète Ouest-France Immo pour étendre son influence en région",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/01/immobilier-seloger-cherche-a-etendre-son-influence-en-region-en-rachetant-ouest-france-immo_6786557_3234.html",
       "published_label": "il y a 3 jours"
     }
   ]
