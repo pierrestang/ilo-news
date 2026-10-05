@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-04T11:21:07.642Z",
+  "updated_at": "2026-10-05T06:19:03.119Z",
   "articles": [
     {
-      "title": "Budget 2027 : la fiscalité de la location meublée (LMNP) et Airbnb alourdie",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/impots/immobilier-le-gouvernement-veut-alourdir-la-fiscalite-de-la-location-meublee-et-de-type-airbnb-30875487.php",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "Crédit immobilier : la flambée des taux ravive les craintes de blocage",
+      "title": "Crédit immobilier : hausse des taux et dossiers refusés, comment débloquer votre demande ?",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/credit-immobilier-la-flambee-des-taux-ravive-les-craintes-de-blocage-20261001",
-      "published_label": "il y a 3 jours"
+      "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Budget 2027 : fin des avantages fiscaux pour la location meublée non professionnelle",
+      "title": "Budget 2027 : la location meublée dans le viseur, l'amortissement fiscal supprimé",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/budget-2027-c-est-une-nouvelle-hausse-d-impot-sur-les-proprietaires-la-location-meublee-est-dans-le-viseur-du-gouvernement-20261002",
-      "published_label": "il y a 2 jours"
+      "published_label": "il y a 3 jours"
     },
     {
       "title": "APL ou rattachement fiscal des parents : il faudra choisir dès le Budget 2027",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/apl-ou-rattachement-au-foyer-fiscal-des-parents-il-faudra-choisir-20261001",
-      "published_label": "il y a 2 jours"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "SeLoger rachète Ouest-France Immo pour étendre son influence en région",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/01/immobilier-seloger-cherche-a-etendre-son-influence-en-region-en-rachetant-ouest-france-immo_6786557_3234.html",
-      "published_label": "il y a 3 jours"
+      "title": "Pays basque : le Conseil d'État valide le projet immobilier Marienia à Cambo-les-Bains",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-nous-ne-sommes-pas-surpris-de-cet-arret-le-conseil-d-etat-ecarte-le-dernier-recours-en-justice-contre-le-projet-marienia-a-cambo-les-bains-30910363.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Gestion du logement social : un rapport accable trois associations Soliha financées par l'État",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/un-rapport-etrille-la-gestion-de-trois-associations-d-aide-au-logement-financees-par-l-argent-public-20261002",
+      "published_label": "hier"
     }
   ]
 }
