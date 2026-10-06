@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-05T06:19:03.119Z",
+  "updated_at": "2026-10-06T06:15:25.536Z",
   "articles": [
     {
-      "title": "Crédit immobilier : hausse des taux et dossiers refusés, comment débloquer votre demande ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
+      "title": "Immobilier : évolution des prix d'achat selon les villes en 2026",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/06/immobilier-comment-ont-evolue-les-prix-d-achat-en-fonction-des-villes_6788834_1657007.html",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Budget 2027 : la location meublée dans le viseur, l'amortissement fiscal supprimé",
+      "title": "Crédit immobilier refusé : hausse des taux et blocages en vue",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/budget-2027-c-est-une-nouvelle-hausse-d-impot-sur-les-proprietaires-la-location-meublee-est-dans-le-viseur-du-gouvernement-20261002",
+      "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
+      "published_label": "hier"
+    },
+    {
+      "title": "Nuisances d'un restaurant en pied d'immeuble : que dit la justice ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/un-restaurant-en-pied-d-immeuble-qui-entraine-des-nuisances-sonores-et-olfactives-peut-ne-pas-etre-condamne-20261006",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Tour Montparnasse : l'avenir se redessine après le fiasco à 800 M€",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/l-avenir-de-la-tour-montparnasse-se-dessine-apres-le-fiasco-de-la-renovation-a-800-millions-d-euros-20261003",
       "published_label": "il y a 3 jours"
     },
     {
-      "title": "APL ou rattachement fiscal des parents : il faudra choisir dès le Budget 2027",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/apl-ou-rattachement-au-foyer-fiscal-des-parents-il-faudra-choisir-20261001",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "Pays basque : le Conseil d'État valide le projet immobilier Marienia à Cambo-les-Bains",
+      "title": "Pays basque : feu vert définitif pour le projet immobilier Marienia à Cambo",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-nous-ne-sommes-pas-surpris-de-cet-arret-le-conseil-d-etat-ecarte-le-dernier-recours-en-justice-contre-le-projet-marienia-a-cambo-les-bains-30910363.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Gestion du logement social : un rapport accable trois associations Soliha financées par l'État",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-rapport-etrille-la-gestion-de-trois-associations-d-aide-au-logement-financees-par-l-argent-public-20261002",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     }
   ]
 }
