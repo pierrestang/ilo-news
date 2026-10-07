@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-06T06:15:25.536Z",
+  "updated_at": "2026-10-07T06:14:07.611Z",
   "articles": [
     {
       "title": "Immobilier : évolution des prix d'achat selon les villes en 2026",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/10/06/immobilier-comment-ont-evolue-les-prix-d-achat-en-fonction-des-villes_6788834_1657007.html",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Crédit immobilier refusé : hausse des taux et blocages en vue",
+      "title": "Crédit immobilier : comment débloquer un dossier refusé face à la hausse des taux ?",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
       "published_label": "hier"
     },
     {
-      "title": "Nuisances d'un restaurant en pied d'immeuble : que dit la justice ?",
+      "title": "HLM : l'Institut Montaigne propose de mettre fin au logement social à vie",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-restaurant-en-pied-d-immeuble-qui-entraine-des-nuisances-sonores-et-olfactives-peut-ne-pas-etre-condamne-20261006",
+      "url": "https://immobilier.lefigaro.fr/article/les-hlm-ne-doivent-pas-etre-une-assignation-a-residence-l-institut-montaigne-veut-a-son-tour-mettre-fin-au-logement-social-a-vie-20261007",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Tour Montparnasse : l'avenir se redessine après le fiasco à 800 M€",
+      "title": "Location Airbnb illégale : un propriétaire parisien condamné à 110 000 € d'amende",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/l-avenir-de-la-tour-montparnasse-se-dessine-apres-le-fiasco-de-la-renovation-a-800-millions-d-euros-20261003",
-      "published_label": "il y a 3 jours"
+      "url": "https://immobilier.lefigaro.fr/article/un-proprietaire-qui-louait-illegalement-un-studio-parisien-sur-airbnb-et-booking-condamne-a-une-amende-de-110-000-euros-20261006",
+      "published_label": "hier"
     },
     {
-      "title": "Pays basque : feu vert définitif pour le projet immobilier Marienia à Cambo",
+      "title": "Adapter les logements aux canicules : 46 à 53 milliards d'euros nécessaires d'ici 2050",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-nous-ne-sommes-pas-surpris-de-cet-arret-le-conseil-d-etat-ecarte-le-dernier-recours-en-justice-contre-le-projet-marienia-a-cambo-les-bains-30910363.php",
-      "published_label": "avant-hier"
+      "url": "https://www.sudouest.fr/societe/logement/climat-entre-46-et-53-milliards-d-euros-seront-necessaires-d-ici-2050-pour-adapter-les-logements-aux-canicules-selon-une-etude-30955522.php",
+      "published_label": "aujourd'hui"
     }
   ]
 }
