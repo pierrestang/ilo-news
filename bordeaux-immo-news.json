@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-07T06:14:07.611Z",
+  "updated_at": "2026-10-08T06:16:54.802Z",
   "articles": [
+    {
+      "title": "Fichage des locataires mauvais payeurs : une plateforme RGPD désormais disponible",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/ce-n-est-pas-une-liste-noire-les-proprietaires-peuvent-desormais-ficher-leur-locataire-mauvais-payeur-20261008",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Crédit immobilier : hausse des taux imminente, comment débloquer un dossier refusé ?",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
+      "published_label": "il y a 3 jours"
+    },
     {
       "title": "Immobilier : évolution des prix d'achat selon les villes en 2026",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/10/06/immobilier-comment-ont-evolue-les-prix-d-achat-en-fonction-des-villes_6788834_1657007.html",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Meublés touristiques : Marseille réduit de 16 % les locations Airbnb grâce au durcissement réglementaire",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/meubles-touristiques-une-baisse-de-16-en-un-an-marseille-affiche-ses-premiers-succes-contre-la-derive-airbnb-30960782.php",
       "published_label": "hier"
     },
     {
-      "title": "Crédit immobilier : comment débloquer un dossier refusé face à la hausse des taux ?",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/des-dossiers-seront-bientot-refuses-tous-les-jours-comment-debloquer-votre-demande-de-credit-immobilier-si-elle-a-ete-rejetee-20261005",
-      "published_label": "hier"
-    },
-    {
-      "title": "HLM : l'Institut Montaigne propose de mettre fin au logement social à vie",
+      "title": "HLM : l'Institut Montaigne plaide pour mettre fin au logement social à vie",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/les-hlm-ne-doivent-pas-etre-une-assignation-a-residence-l-institut-montaigne-veut-a-son-tour-mettre-fin-au-logement-social-a-vie-20261007",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Location Airbnb illégale : un propriétaire parisien condamné à 110 000 € d'amende",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-proprietaire-qui-louait-illegalement-un-studio-parisien-sur-airbnb-et-booking-condamne-a-une-amende-de-110-000-euros-20261006",
       "published_label": "hier"
-    },
-    {
-      "title": "Adapter les logements aux canicules : 46 à 53 milliards d'euros nécessaires d'ici 2050",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/climat-entre-46-et-53-milliards-d-euros-seront-necessaires-d-ici-2050-pour-adapter-les-logements-aux-canicules-selon-une-etude-30955522.php",
-      "published_label": "aujourd'hui"
     }
   ]
 }
