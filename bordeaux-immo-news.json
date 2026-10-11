@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-10T06:14:28.352Z",
+  "updated_at": "2026-10-11T06:14:54.497Z",
   "articles": [
     {
-      "title": "Encadrement des loyers à Bordeaux : 530 € d'économie annuelle pour les locataires",
+      "title": "Encadrement des loyers à Bordeaux : 530€ d'économie annuelle pour les locataires",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/encadrement-des-loyers-une-economie-moyenne-annuelle-autour-de-530-euros-pour-les-locataires-a-bordeaux-30983102.php",
       "published_label": "hier"
     },
     {
-      "title": "Loueurs en meublé : un coup de rabot fiscal jusqu'à 13 000 € d'impôts en plus par an",
+      "title": "LMNP : les loueurs en meublé vent debout contre le coup de rabot fiscal du budget 2027",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pour-moi-ca-ferait-13-000-euros-d-impot-en-plus-par-an-les-loueurs-en-meuble-vent-debout-contre-le-coup-de-rabot-fiscal-du-budget-2027-20261010",
       "published_label": "aujourd'hui"
@@ -20,16 +20,16 @@
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Les propriétaires peuvent désormais ficher les locataires mauvais payeurs",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/ce-n-est-pas-une-liste-noire-les-proprietaires-peuvent-desormais-ficher-leur-locataire-mauvais-payeur-20261008",
-      "published_label": "hier"
-    },
-    {
       "title": "Facturation électronique : ce qui change pour les loueurs de logements meublés",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/10/10/que-change-la-facturation-electronique-pour-les-loueurs-de-logements-meubles_6790942_1657007.html",
       "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Bergerac : des investisseurs misent sur la réhabilitation de la vieille pierre en centre-ville",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/dordogne/bergerac/vacance-des-logements-en-centre-ville-a-bergerac-des-investisseurs-misent-sur-la-vieille-pierre-30947248.php",
+      "published_label": "hier"
     }
   ]
 }
