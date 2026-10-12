@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T06:19:23.274Z",
+  "updated_at": "2026-10-12T13:41:19.956Z",
   "articles": [
     {
       "title": "Logements vacants : une nouvelle taxe unique entre en vigueur en 2027",
@@ -8,28 +8,28 @@
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Loueurs en meublé : coup de rabot fiscal au budget 2027, jusqu'à 13 000 € d'impôts en plus",
+      "title": "Loueurs en meublé : hausse d'impôts en vue avec le budget 2027",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pour-moi-ca-ferait-13-000-euros-d-impot-en-plus-par-an-les-loueurs-en-meuble-vent-debout-contre-le-coup-de-rabot-fiscal-du-budget-2027-20261010",
-      "published_label": "il y a 3 jours"
+      "published_label": "il y a 2 jours"
     },
     {
       "title": "Vol des données de 48 millions de propriétaires : risques de squats et cambriolages",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/il-y-a-un-vrai-risque-de-squats-et-de-cambriolages-pourquoi-l-affaire-du-vol-des-donnees-de-48-millions-de-proprietaires-est-un-scandale-20261009",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "Arcachon : une villa au riche passé spirituel trouve preneur grâce à son histoire",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/l-acheteuse-a-ete-sensible-a-l-histoire-spirituelle-du-lieu-une-proprietaire-a-jete-son-devolu-sur-une-villa-grace-a-un-ancien-habitant-illustre-20261011",
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Facturation électronique : ce qui change pour les loueurs de logements meublés",
+      "title": "Facturation électronique : ce qui change pour les loueurs de meublés",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/10/10/que-change-la-facturation-electronique-pour-les-loueurs-de-logements-meubles_6790942_1657007.html",
-      "published_label": "il y a 3 jours"
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Arcachon : une villa au riche passé vendue grâce à son ancien habitant illustre",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/l-acheteuse-a-ete-sensible-a-l-histoire-spirituelle-du-lieu-une-proprietaire-a-jete-son-devolu-sur-une-villa-grace-a-un-ancien-habitant-illustre-20261011",
+      "published_label": "hier"
     }
   ]
 }
