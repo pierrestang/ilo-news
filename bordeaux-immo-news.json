@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-11T06:14:54.497Z",
+  "updated_at": "2026-10-12T06:19:23.274Z",
   "articles": [
     {
-      "title": "Encadrement des loyers à Bordeaux : 530€ d'économie annuelle pour les locataires",
+      "title": "Logements vacants : une nouvelle taxe unique entre en vigueur en 2027",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/encadrement-des-loyers-une-economie-moyenne-annuelle-autour-de-530-euros-pour-les-locataires-a-bordeaux-30983102.php",
-      "published_label": "hier"
+      "url": "https://www.sudouest.fr/economie/impots/logements-vacants-une-nouvelle-taxe-unique-entre-en-vigueur-en-2027-voici-ce-qui-change-et-ce-qui-ne-change-pas-30887918.php",
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "LMNP : les loueurs en meublé vent debout contre le coup de rabot fiscal du budget 2027",
+      "title": "Loueurs en meublé : coup de rabot fiscal au budget 2027, jusqu'à 13 000 € d'impôts en plus",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pour-moi-ca-ferait-13-000-euros-d-impot-en-plus-par-an-les-loueurs-en-meuble-vent-debout-contre-le-coup-de-rabot-fiscal-du-budget-2027-20261010",
-      "published_label": "aujourd'hui"
+      "published_label": "il y a 3 jours"
     },
     {
       "title": "Vol des données de 48 millions de propriétaires : risques de squats et cambriolages",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/il-y-a-un-vrai-risque-de-squats-et-de-cambriolages-pourquoi-l-affaire-du-vol-des-donnees-de-48-millions-de-proprietaires-est-un-scandale-20261009",
-      "published_label": "aujourd'hui"
+      "published_label": "il y a 3 jours"
+    },
+    {
+      "title": "Arcachon : une villa au riche passé spirituel trouve preneur grâce à son histoire",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/l-acheteuse-a-ete-sensible-a-l-histoire-spirituelle-du-lieu-une-proprietaire-a-jete-son-devolu-sur-une-villa-grace-a-un-ancien-habitant-illustre-20261011",
+      "published_label": "il y a 2 jours"
     },
     {
       "title": "Facturation électronique : ce qui change pour les loueurs de logements meublés",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/10/10/que-change-la-facturation-electronique-pour-les-loueurs-de-logements-meubles_6790942_1657007.html",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Bergerac : des investisseurs misent sur la réhabilitation de la vieille pierre en centre-ville",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/dordogne/bergerac/vacance-des-logements-en-centre-ville-a-bergerac-des-investisseurs-misent-sur-la-vieille-pierre-30947248.php",
-      "published_label": "hier"
+      "published_label": "il y a 3 jours"
     }
   ]
 }
