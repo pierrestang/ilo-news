@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-12T13:41:19.956Z",
+  "updated_at": "2026-10-13T06:18:16.956Z",
   "articles": [
     {
-      "title": "Logements vacants : une nouvelle taxe unique entre en vigueur en 2027",
+      "title": "Logements vacants : une nouvelle taxe unique remplace les deux existantes en 2027",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/impots/logements-vacants-une-nouvelle-taxe-unique-entre-en-vigueur-en-2027-voici-ce-qui-change-et-ce-qui-ne-change-pas-30887918.php",
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Loueurs en meublé : hausse d'impôts en vue avec le budget 2027",
+      "title": "Loueurs en meublé : hausse d'impôts à venir avec le budget 2027, les LMNP en colère",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/pour-moi-ca-ferait-13-000-euros-d-impot-en-plus-par-an-les-loueurs-en-meuble-vent-debout-contre-le-coup-de-rabot-fiscal-du-budget-2027-20261010",
-      "published_label": "il y a 2 jours"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "Vol des données de 48 millions de propriétaires : risques de squats et cambriolages",
+      "title": "Location Airbnb : un couple condamné à 5 000 € d'amende à Paris",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/il-y-a-un-vrai-risque-de-squats-et-de-cambriolages-pourquoi-l-affaire-du-vol-des-donnees-de-48-millions-de-proprietaires-est-un-scandale-20261009",
-      "published_label": "il y a 2 jours"
+      "url": "https://immobilier.lefigaro.fr/article/location-airbnb-la-justice-condamne-un-couple-de-proprietaires-a-5000-euros-d-amende-la-mairie-de-paris-reclamait-200-000-euros-20261013",
+      "published_label": "hier"
     },
     {
-      "title": "Facturation électronique : ce qui change pour les loueurs de meublés",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/10/que-change-la-facturation-electronique-pour-les-loueurs-de-logements-meubles_6790942_1657007.html",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Arcachon : une villa au riche passé vendue grâce à son ancien habitant illustre",
+      "title": "Copropriété : travaux en parties communes sans accord des copropriétaires, c'est interdit",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/l-acheteuse-a-ete-sensible-a-l-histoire-spirituelle-du-lieu-une-proprietaire-a-jete-son-devolu-sur-une-villa-grace-a-un-ancien-habitant-illustre-20261011",
+      "url": "https://immobilier.lefigaro.fr/article/un-coproprietaire-ne-peut-pas-remettre-en-etat-les-parties-communes-degradees-par-un-voisin-sans-obtenir-l-autorisation-des-autres-coproprietaires-20261012",
+      "published_label": "hier"
+    },
+    {
+      "title": "LGV Sud-Ouest : des travaux de déboisement bloqués au sud de Bordeaux",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4253686-20261012-lgv-sud-ouest-travaux-deboisement-bloques-sud-bordeaux?at_medium=display&at_campaign=149",
       "published_label": "hier"
     }
   ]
