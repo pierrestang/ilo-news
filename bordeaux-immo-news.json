@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-16T06:27:01.179Z",
+  "updated_at": "2026-10-17T10:14:07.141Z",
   "articles": [
     {
       "title": "Pauillac : logements vieillissants et manque de foncier, un marché immobilier à la peine",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/pauillac/pauillac-a-la-une-entre-logements-vieillissants-et-manque-de-foncier-un-marche-immobilier-a-la-peine-31085871.php",
-      "published_label": "aujourd'hui"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Immobilier en Gironde : hausse des taux de crédit, faut-il craindre un coup d'arrêt du marché ?",
+      "title": "Immobilier en Gironde : proximité du travail et transports redessinent les critères d'achat",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-en-gironde/immobilier-en-gironde-face-a-la-hausse-des-taux-de-credit-immobilier-faut-il-s-inquieter-d-un-coup-d-arret-du-marche-30821785.php",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/immobilier-en-gironde-les-acquereurs-sont-tres-attentifs-au-probleme-de-deplacements-les-secteurs-prises-a-l-epreuve-de-nouveaux-criteres-30820844.php",
       "published_label": "il y a 3 jours"
     },
     {
-      "title": "Encadrement des loyers : méthode jugée fragile, la Cour des comptes demande une réforme structurelle",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/encadrement-des-loyers-une-methode-imparfaite-et-fragile-la-cour-des-comptes-demande-une-reforme-structurelle-pour-envisager-une-prolongation-31068138.php",
-      "published_label": "avant-hier"
+      "title": "Crédit immobilier : les banques prêtent moins et les taux remontent",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/16/credit-immobilier-les-banques-pretent-moins-et-les-taux-remontent_6795545_1657007.html",
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "MaPrimeRénov' : le budget d'aide à la rénovation énergétique amputé de 350 millions d'euros",
+      "title": "MaPrimeRénov' : le budget de rénovation énergétique amputé de 350 millions d'euros",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/maprimerenov-le-budget-d-aide-a-la-renovation-energetique-officiellement-ampute-de-350-millions-d-euros-31075634.php",
-      "published_label": "avant-hier"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "Gironde : les acquéreurs privilégient désormais proximité du travail et transports dans leurs critères",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/immobilier-en-gironde-les-acquereurs-sont-tres-attentifs-au-probleme-de-deplacements-les-secteurs-prises-a-l-epreuve-de-nouveaux-criteres-30820844.php",
-      "published_label": "avant-hier"
+      "title": "La Cour des comptes remet en cause la méthode de calcul de l'encadrement des loyers",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-cour-des-comptes-torpille-la-methode-de-calcul-de-l-encadrement-des-loyers-20261014",
+      "published_label": "il y a 3 jours"
     }
   ]
 }
