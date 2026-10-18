@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-10-17T10:14:07.141Z",
+  "updated_at": "2026-10-18T10:29:21.246Z",
   "articles": [
     {
-      "title": "Pauillac : logements vieillissants et manque de foncier, un marché immobilier à la peine",
+      "title": "Pauillac : logements vieillissants et manque de foncier pèsent sur le marché",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/pauillac/pauillac-a-la-une-entre-logements-vieillissants-et-manque-de-foncier-un-marche-immobilier-a-la-peine-31085871.php",
       "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Immobilier en Gironde : proximité du travail et transports redessinent les critères d'achat",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/immobilier-en-gironde-les-acquereurs-sont-tres-attentifs-au-probleme-de-deplacements-les-secteurs-prises-a-l-epreuve-de-nouveaux-criteres-30820844.php",
-      "published_label": "il y a 3 jours"
     },
     {
       "title": "Crédit immobilier : les banques prêtent moins et les taux remontent",
@@ -20,16 +14,22 @@
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "MaPrimeRénov' : le budget de rénovation énergétique amputé de 350 millions d'euros",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/maprimerenov-le-budget-d-aide-a-la-renovation-energetique-officiellement-ampute-de-350-millions-d-euros-31075634.php",
-      "published_label": "il y a 3 jours"
+      "title": "La taxe foncière a quasiment doublé en 20 ans en France (2005-2025)",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-taxe-fonciere-a-quasiment-double-en-20-ans-en-france-entre-2005-et-2025-20261016",
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "La Cour des comptes remet en cause la méthode de calcul de l'encadrement des loyers",
+      "title": "Terrain à bâtir vendu avec la résidence principale : exonération de plus-value confirmée",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/la-cour-des-comptes-torpille-la-methode-de-calcul-de-l-encadrement-des-loyers-20261014",
-      "published_label": "il y a 3 jours"
+      "url": "https://immobilier.lefigaro.fr/article/pourquoi-le-conseil-d-etat-s-est-oppose-au-fisc-en-soulignant-qu-un-terrain-a-batir-pouvait-etre-exonere-d-impots-sur-les-plus-values-20261014",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Locataires et propriétaires : apaiser leurs relations pour sortir de la crise du logement",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/apaiser-les-relations-entre-locataires-et-proprietaires-passage-oblige-pour-resoudre-la-crise-du-logement-20261016",
+      "published_label": "il y a 2 jours"
     }
   ]
 }
