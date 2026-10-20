@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-19T12:17:59.501Z",
+  "updated_at": "2026-10-20T10:59:34.351Z",
   "articles": [
     {
-      "title": "Exonération d'impôt sur les plus-values : le Conseil d'État contredit le fisc",
+      "title": "Crowdfunding immobilier : les frais qui amplifient les pertes lors des liquidations",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/pourquoi-le-conseil-d-etat-s-est-oppose-au-fisc-en-soulignant-qu-un-terrain-a-batir-pouvait-etre-exonere-d-impots-sur-les-plus-values-20261014",
-      "published_label": "il y a 3 jours"
+      "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
+      "published_label": "ce matin"
     },
     {
-      "title": "Logement social vendu à prix dérisoire : le débat de Montargis fait jurisprudence",
+      "title": "Violences urbaines : votre assurance couvre-t-elle les dégradations sur votre immeuble ?",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/cette-transaction-a-un-prix-derisoire-concernant-500-logements-sociaux-fait-debat-a-montargis-20261017",
-      "published_label": "avant-hier"
+      "url": "https://immobilier.lefigaro.fr/article/immeubles-saccages-lors-des-violences-urbaines-votre-assurance-prend-elle-en-charge-le-remboursement-des-dommages-20261019",
+      "published_label": "hier"
     },
     {
-      "title": "Propriétaire récupère son logement pour le relouer plus cher : le tribunal valide",
+      "title": "Violences du 17 octobre : une facture de plusieurs centaines de millions d'euros",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4255637-20261019-violences-17-octobre-va-payer-facture?at_medium=display&at_campaign=149",
+      "published_label": "hier"
+    },
+    {
+      "title": "Congé pour reprise frauduleux : le locataire repart sans indemnisation en Espagne",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/elle-pretexte-vouloir-recuperer-son-logement-pour-sa-fille-mais-le-reloue-plus-cher-le-tribunal-lui-donne-raison-et-le-locataire-repart-bredouille-20261019",
-      "published_label": "ce matin"
+      "published_label": "hier"
     },
     {
-      "title": "Crise du logement au Portugal : campements maintenus à Lisbonne et Porto",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/international/europe/portugal/crise-du-logement-au-portugal-des-centaines-de-manifestants-maintiennent-les-campements-installes-a-lisbonne-et-porto-31140817.php",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Tour Montparnasse : le maire de Paris menace les copropriétaires après rejet du projet",
+      "title": "500 logements sociaux cédés à prix dérisoire à Montargis : le débat enfle",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-menace-les-coproprietaires-apres-le-rejet-du-projet-a-800-millions-d-euros-20261018",
+      "url": "https://immobilier.lefigaro.fr/article/cette-transaction-a-un-prix-derisoire-concernant-500-logements-sociaux-fait-debat-a-montargis-20261017",
       "published_label": "hier"
     }
   ]
