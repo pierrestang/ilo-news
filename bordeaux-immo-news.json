@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-20T10:59:34.351Z",
+  "updated_at": "2026-10-21T11:16:27.553Z",
   "articles": [
     {
-      "title": "Crowdfunding immobilier : les frais qui amplifient les pertes lors des liquidations",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
+      "title": "Raréfaction du crédit immobilier anticipée, les banques plus sélectives",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/21/ludovic-huzieux-cofondateur-d-artemis-courtage-nous-anticipons-une-rarefaction-du-credit-immobilier_6798208_1657007.html",
       "published_label": "ce matin"
     },
     {
-      "title": "Violences urbaines : votre assurance couvre-t-elle les dégradations sur votre immeuble ?",
+      "title": "Le taux d'emprunt à 10 ans de la France franchit les 5 % pour la première fois depuis 2002",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/le-taux-d-emprunt-a-dix-ans-de-la-france-franchit-la-barre-des-5-pour-la-premiere-fois-depuis-2002_6798230_3234.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Rénovation énergétique : quelles aides sont encore disponibles ?",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/21/renovation-energetique-quelles-aides-sont-encore-possibles_6798193_1657007.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "La taxe foncière a quasiment doublé en 20 ans en France, entre 2005 et 2025",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/immeubles-saccages-lors-des-violences-urbaines-votre-assurance-prend-elle-en-charge-le-remboursement-des-dommages-20261019",
+      "url": "https://immobilier.lefigaro.fr/article/la-taxe-fonciere-a-quasiment-double-en-20-ans-en-france-entre-2005-et-2025-20261016",
       "published_label": "hier"
     },
     {
-      "title": "Violences du 17 octobre : une facture de plusieurs centaines de millions d'euros",
-      "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4255637-20261019-violences-17-octobre-va-payer-facture?at_medium=display&at_campaign=149",
-      "published_label": "hier"
-    },
-    {
-      "title": "Congé pour reprise frauduleux : le locataire repart sans indemnisation en Espagne",
+      "title": "Vendeur non libre de vendre au plus offrant : ce que dit la loi",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/elle-pretexte-vouloir-recuperer-son-logement-pour-sa-fille-mais-le-reloue-plus-cher-le-tribunal-lui-donne-raison-et-le-locataire-repart-bredouille-20261019",
-      "published_label": "hier"
-    },
-    {
-      "title": "500 logements sociaux cédés à prix dérisoire à Montargis : le débat enfle",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/cette-transaction-a-un-prix-derisoire-concernant-500-logements-sociaux-fait-debat-a-montargis-20261017",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/pourquoi-un-vendeur-n-est-pas-toujours-libre-de-vendre-son-logement-au-plus-offrant-20261021",
+      "published_label": "ce matin"
     }
   ]
 }
