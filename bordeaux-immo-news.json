@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-21T11:16:27.553Z",
+  "updated_at": "2026-10-22T11:15:22.201Z",
   "articles": [
     {
-      "title": "Raréfaction du crédit immobilier anticipée, les banques plus sélectives",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/21/ludovic-huzieux-cofondateur-d-artemis-courtage-nous-anticipons-une-rarefaction-du-credit-immobilier_6798208_1657007.html",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Le taux d'emprunt à 10 ans de la France franchit les 5 % pour la première fois depuis 2002",
+      "title": "Taux d'emprunt à 10 ans : la France franchit les 5% pour la 1ère fois depuis 2002",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/economie/article/2026/10/21/le-taux-d-emprunt-a-dix-ans-de-la-france-franchit-la-barre-des-5-pour-la-premiere-fois-depuis-2002_6798230_3234.html",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Rénovation énergétique : quelles aides sont encore disponibles ?",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/21/renovation-energetique-quelles-aides-sont-encore-possibles_6798193_1657007.html",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "La taxe foncière a quasiment doublé en 20 ans en France, entre 2005 et 2025",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/la-taxe-fonciere-a-quasiment-double-en-20-ans-en-france-entre-2005-et-2025-20261016",
       "published_label": "hier"
     },
     {
-      "title": "Vendeur non libre de vendre au plus offrant : ce que dit la loi",
+      "title": "Crédit immobilier : une raréfaction anticipée alors que les taux repartent à la hausse",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/21/ludovic-huzieux-cofondateur-d-artemis-courtage-nous-anticipons-une-rarefaction-du-credit-immobilier_6798208_1657007.html",
+      "published_label": "hier"
+    },
+    {
+      "title": "Encadrement des loyers : prolongation incertaine au-delà de novembre 2026",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/pourquoi-un-vendeur-n-est-pas-toujours-libre-de-vendre-son-logement-au-plus-offrant-20261021",
-      "published_label": "ce matin"
+      "url": "https://immobilier.lefigaro.fr/article/un-marqueur-politique-idiot-les-loyers-vont-ils-etre-encadres-au-dela-de-2026-et-dans-quelles-villes-20261022",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Bordeaux : le quartier Paludate (Euratlantique) se projette vers 2027 avec piscine et Canopia",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-piscine-salles-de-sport-canopia-le-quartier-paludate-guette-2027-31174103.php",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "La taxe foncière a quasiment doublé en 20 ans en France entre 2005 et 2025",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-taxe-fonciere-a-quasiment-double-en-20-ans-en-france-entre-2005-et-2025-20261016",
+      "published_label": "hier"
     }
   ]
 }
