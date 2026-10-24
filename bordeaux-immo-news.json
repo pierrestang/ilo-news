@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-23T11:06:28.339Z",
+  "updated_at": "2026-10-24T10:23:09.216Z",
   "articles": [
     {
-      "title": "Taux d'intérêt : la remontée se confirme, impacts pour acquéreurs et vendeurs",
+      "title": "Taux d'intérêt immobiliers : la remontée se confirme",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-au-pays-basque/taux-d-interet-la-remontee-se-confirme-31071153.php",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Encadrement des loyers : le Sénat vote la prolongation de deux ans du dispositif",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-marqueur-politique-idiot-les-loyers-vont-ils-etre-encadres-au-dela-de-2026-et-dans-quelles-villes-20261022",
       "published_label": "hier"
     },
     {
-      "title": "Le taux d'emprunt à 10 ans de la France franchit 5 % pour la première fois depuis 2002",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/21/le-taux-d-emprunt-a-dix-ans-de-la-france-franchit-la-barre-des-5-pour-la-premiere-fois-depuis-2002_6798230_3234.html",
-      "published_label": "avant-hier"
+      "title": "Encadrement des loyers : le Sénat vote une prolongation de deux ans",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4256646-20261022-encadrement-loyers-senat-vote-prolonger-deux-ans-dispositif-sursis?at_medium=display&at_campaign=149",
+      "published_label": "hier"
     },
     {
-      "title": "Bordeaux : le quartier Paludate guette 2027 entre piscine, salles de sport et Canopia",
+      "title": "Bordeaux : le quartier Paludate attend piscine, salles de sport et Canopia en 2027",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-piscine-salles-de-sport-canopia-le-quartier-paludate-guette-2027-31174103.php",
       "published_label": "hier"
     },
     {
-      "title": "Crédit immobilier : les banques anticipent une raréfaction et se montrent plus sélectives",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/21/ludovic-huzieux-cofondateur-d-artemis-courtage-nous-anticipons-une-rarefaction-du-credit-immobilier_6798208_1657007.html",
-      "published_label": "avant-hier"
+      "title": "Investissement locatif : l'intérieur du Pays basque et Sud Landes reprend des couleurs",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-dans-les-landes/immobilier-au-pays-basque-et-en-sud-landes-l-investissement-locatif-reprend-des-couleurs-dans-les-terres-31075406.php",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Crowdfunding immobilier : les investisseurs piégés par des frais lors des liquidations",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
+      "published_label": "aujourd'hui"
     }
   ]
 }
