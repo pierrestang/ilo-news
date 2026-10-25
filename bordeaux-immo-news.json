@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-24T10:23:09.216Z",
+  "updated_at": "2026-10-25T10:50:37.587Z",
   "articles": [
     {
       "title": "Taux d'intérêt immobiliers : la remontée se confirme",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-au-pays-basque/taux-d-interet-la-remontee-se-confirme-31071153.php",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Encadrement des loyers : le Sénat vote une prolongation de deux ans",
+      "title": "Encadrement des loyers : le Sénat vote pour prolonger le dispositif de 2 ans",
       "source": "20 Minutes Bordeaux",
       "url": "https://www.20minutes.fr/societe/4256646-20261022-encadrement-loyers-senat-vote-prolonger-deux-ans-dispositif-sursis?at_medium=display&at_campaign=149",
-      "published_label": "hier"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "Bordeaux : le quartier Paludate attend piscine, salles de sport et Canopia en 2027",
+      "title": "Meublés de tourisme dans le viseur des collectivités du Pays basque et Sud Landes",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-piscine-salles-de-sport-canopia-le-quartier-paludate-guette-2027-31174103.php",
+      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-dans-les-landes/immobilier-au-pays-basque-et-en-sud-landes-les-meubles-de-tourisme-dans-le-viseur-31084225.php",
       "published_label": "hier"
     },
     {
-      "title": "Investissement locatif : l'intérieur du Pays basque et Sud Landes reprend des couleurs",
+      "title": "Investissement locatif : regain d'intérêt dans les terres du Pays basque et Sud Landes",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-dans-les-landes/immobilier-au-pays-basque-et-en-sud-landes-l-investissement-locatif-reprend-des-couleurs-dans-les-terres-31075406.php",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Crowdfunding immobilier : les investisseurs piégés par des frais lors des liquidations",
+      "title": "Crowdfunding immobilier : les investisseurs piégés par les frais des plateformes en liquidation",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     }
   ]
 }
