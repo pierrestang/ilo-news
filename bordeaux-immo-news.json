@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-26T12:21:13.779Z",
+  "updated_at": "2026-10-27T11:41:07.870Z",
   "articles": [
+    {
+      "title": "Crédits immobiliers : les taux s'envolent, pression sur les emprunteurs de plus de 40 ans",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/mon-argent/credits-immobiliers-les-taux-s-envolent-certains-emprunteurs-de-plus-de-40-ans-sous-pression-31260149.php",
+      "published_label": "aujourd'hui"
+    },
     {
       "title": "Taux à 4% sur 20 ans : 230 000 emprunteurs immobiliers menacés d'exclusion",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/des-taux-a-4-sur-20-ans-pres-de-230-000-emprunteurs-immobiliers-sont-menaces-d-exclusion-20261026",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
+    },
+    {
+      "title": "Rénover sans débourser un centime : le dispositif qui séduit les propriétaires",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/immobilier/video-renover-sans-debourser-un-centime-pour-moi-c-est-un-don-du-ciel-temoigne-patrice-septuagenaire-depuis-le-perigord-vert-30875358.php",
+      "published_label": "hier"
     },
     {
       "title": "Chaos politique : plus d'un étranger sur deux hésite à acheter une résidence en France",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/a-cause-du-chaos-politique-plus-d-un-etranger-sur-deux-hesite-a-acheter-une-residence-en-france-20261026",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Naufragés du crowdfunding immobilier : dans l'étau des plateformes en liquidation",
+      "title": "Crowdfunding immobilier : les investisseurs dans l'étau des plateformes en liquidation",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Meublés de tourisme dans le viseur : les collectivités du littoral landais ripostent",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-dans-les-landes/immobilier-au-pays-basque-et-en-sud-landes-les-meubles-de-tourisme-dans-le-viseur-31084225.php",
-      "published_label": "avant-hier"
-    },
-    {
-      "title": "Saint-Palais-sur-Mer : la taxe sur les logements vacants va quasiment doubler en 2027",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/charente-maritime/saint-palais-sur-mer/saint-palais-sur-mer-la-taxe-sur-les-logements-vacants-va-quasiment-doubler-au-1er-janvier-2027-31197554.php",
-      "published_label": "avant-hier"
+      "published_label": "hier"
     }
   ]
 }
