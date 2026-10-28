@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-27T11:41:07.870Z",
+  "updated_at": "2026-10-28T12:13:08.482Z",
   "articles": [
     {
-      "title": "Crédits immobiliers : les taux s'envolent, pression sur les emprunteurs de plus de 40 ans",
+      "title": "Crédits immobiliers : les taux s'envolent, certains emprunteurs sous pression",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/mon-argent/credits-immobiliers-les-taux-s-envolent-certains-emprunteurs-de-plus-de-40-ans-sous-pression-31260149.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Des taux à 4% sur 20 ans : 230 000 emprunteurs immobiliers menacés d'exclusion",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/des-taux-a-4-sur-20-ans-pres-de-230-000-emprunteurs-immobiliers-sont-menaces-d-exclusion-20261026",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Héritage des baby-boomers : les villes où le choc démographique fera chuter les prix",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Taux à 4% sur 20 ans : 230 000 emprunteurs immobiliers menacés d'exclusion",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/des-taux-a-4-sur-20-ans-pres-de-230-000-emprunteurs-immobiliers-sont-menaces-d-exclusion-20261026",
-      "published_label": "hier"
+      "title": "Les SCPI dans la tourmente : la hausse des taux conduit à de nouvelles baisses de prix",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/28/les-scpi-a-nouveau-dans-la-tourmente-la-hausse-des-taux-d-interet-conduit-a-de-nouvelles-baisses-de-prix_6801533_1657007.html",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Rénover sans débourser un centime : le dispositif qui séduit les propriétaires",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/video-renover-sans-debourser-un-centime-pour-moi-c-est-un-don-du-ciel-temoigne-patrice-septuagenaire-depuis-le-perigord-vert-30875358.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Chaos politique : plus d'un étranger sur deux hésite à acheter une résidence en France",
+      "title": "Sigilio, le site qui fiche les locataires mauvais payeurs, attaqué en justice",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/a-cause-du-chaos-politique-plus-d-un-etranger-sur-deux-hesite-a-acheter-une-residence-en-france-20261026",
-      "published_label": "hier"
-    },
-    {
-      "title": "Crowdfunding immobilier : les investisseurs dans l'étau des plateformes en liquidation",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/c-est-soit-ces-frais-soit-je-ne-recupererai-rien-les-naufrages-du-crowdfunding-immobilier-dans-l-etau-des-plateformes-en-liquidation-20261020",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/sigilio-le-site-qui-fiche-les-locataires-mauvais-payeurs-attaque-en-justice-par-une-association-20261028",
+      "published_label": "aujourd'hui"
     }
   ]
 }
