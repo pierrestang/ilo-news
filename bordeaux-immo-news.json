@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-28T12:13:08.482Z",
+  "updated_at": "2026-10-29T12:23:21.177Z",
   "articles": [
     {
-      "title": "Crédits immobiliers : les taux s'envolent, certains emprunteurs sous pression",
+      "title": "Crédits immobiliers : les taux s'envolent, pression sur les emprunteurs de +40 ans",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/mon-argent/credits-immobiliers-les-taux-s-envolent-certains-emprunteurs-de-plus-de-40-ans-sous-pression-31260149.php",
       "published_label": "hier"
     },
     {
-      "title": "Des taux à 4% sur 20 ans : 230 000 emprunteurs immobiliers menacés d'exclusion",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/des-taux-a-4-sur-20-ans-pres-de-230-000-emprunteurs-immobiliers-sont-menaces-d-exclusion-20261026",
-      "published_label": "avant-hier"
+      "title": "Bordeaux Brazza : la difficile implantation des commerces de proximité",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/commerces/bordeaux-brazza-naissance-d-un-quartier-4-6-les-premiers-essuient-un-peu-les-platres-ou-la-lente-et-difficile-implantation-des-commerces-de-proximite-31267351.php",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Héritage des baby-boomers : les villes où le choc démographique fera chuter les prix",
+      "title": "Héritage des baby-boomers : les villes où le choc démographique va faire chuter les prix",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Les SCPI dans la tourmente : la hausse des taux conduit à de nouvelles baisses de prix",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/28/les-scpi-a-nouveau-dans-la-tourmente-la-hausse-des-taux-d-interet-conduit-a-de-nouvelles-baisses-de-prix_6801533_1657007.html",
+      "title": "Les Français préfèrent rénover leur logement plutôt qu'acheter dans le neuf",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/pourquoi-les-francais-preferent-renover-leur-logement-plutot-que-d-acheter-dans-le-neuf-20261029",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "Sigilio, le site qui fiche les locataires mauvais payeurs, attaqué en justice",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/sigilio-le-site-qui-fiche-les-locataires-mauvais-payeurs-attaque-en-justice-par-une-association-20261028",
+      "title": "IA immobilière : la start-up bordelaise Aqqi lève des fonds pour son assistant d'achat",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/intelligence-artificielle-le-bordelais-aqqi-leve-des-fonds-pour-son-ia-d-achat-immobilier-31144817.php",
       "published_label": "aujourd'hui"
     }
   ]
