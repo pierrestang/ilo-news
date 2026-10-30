@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-29T12:23:21.177Z",
+  "updated_at": "2026-10-30T12:14:28.204Z",
   "articles": [
-    {
-      "title": "Crédits immobiliers : les taux s'envolent, pression sur les emprunteurs de +40 ans",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/mon-argent/credits-immobiliers-les-taux-s-envolent-certains-emprunteurs-de-plus-de-40-ans-sous-pression-31260149.php",
-      "published_label": "hier"
-    },
     {
       "title": "Bordeaux Brazza : la difficile implantation des commerces de proximité",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/commerces/bordeaux-brazza-naissance-d-un-quartier-4-6-les-premiers-essuient-un-peu-les-platres-ou-la-lente-et-difficile-implantation-des-commerces-de-proximite-31267351.php",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Héritage des baby-boomers : les villes où le choc démographique va faire chuter les prix",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Les Français préfèrent rénover leur logement plutôt qu'acheter dans le neuf",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/pourquoi-les-francais-preferent-renover-leur-logement-plutot-que-d-acheter-dans-le-neuf-20261029",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "IA immobilière : la start-up bordelaise Aqqi lève des fonds pour son assistant d'achat",
+      "title": "La start-up bordelaise Aqqi lève des fonds pour son IA d'achat immobilier",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/intelligence-artificielle-le-bordelais-aqqi-leve-des-fonds-pour-son-ia-d-achat-immobilier-31144817.php",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
+    },
+    {
+      "title": "Héritage des baby-boomers : les villes où le choc démographique fera chuter les prix",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
+      "published_label": "hier"
+    },
+    {
+      "title": "81% des Français favorables à un allégement de la fiscalité pour les bailleurs",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/on-s-endette-lourdement-pour-investir-dans-l-immobilier-pas-pour-vivre-a-dubai-les-francais-favorables-a-un-allegement-de-la-fiscalite-pour-les-bailleurs-20261029",
+      "published_label": "hier"
+    },
+    {
+      "title": "Crédit immobilier : BNP Paribas ne veut pas faire la course aux taux",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/credit-immobilier-chez-bnp-paribas-nous-ne-souhaitons-pas-faire-la-course-aux-taux-30961757.php",
+      "published_label": "hier"
     }
   ]
 }
