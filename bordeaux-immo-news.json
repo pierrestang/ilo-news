@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:14:28.204Z",
+  "updated_at": "2026-10-31T11:45:55.588Z",
   "articles": [
     {
       "title": "Bordeaux Brazza : la difficile implantation des commerces de proximité",
@@ -14,7 +14,7 @@
       "published_label": "hier"
     },
     {
-      "title": "Héritage des baby-boomers : les villes où le choc démographique fera chuter les prix",
+      "title": "Héritage des baby-boomers : les villes où le choc démographique va faire chuter les prix",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
       "published_label": "hier"
@@ -26,10 +26,10 @@
       "published_label": "hier"
     },
     {
-      "title": "Crédit immobilier : BNP Paribas ne veut pas faire la course aux taux",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/credit-immobilier-chez-bnp-paribas-nous-ne-souhaitons-pas-faire-la-course-aux-taux-30961757.php",
-      "published_label": "hier"
+      "title": "Le bail réel solidaire : acheter un logement sans être propriétaire du terrain",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/31/peut-on-acheter-un-logement-sans-devenir-proprietaire-du-terrain_6803390_1657007.html",
+      "published_label": "aujourd'hui"
     }
   ]
 }
