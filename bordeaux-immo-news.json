@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-31T11:45:55.588Z",
+  "updated_at": "2026-11-01T12:45:52.957Z",
   "articles": [
     {
-      "title": "Bordeaux Brazza : la difficile implantation des commerces de proximité",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/commerces/bordeaux-brazza-naissance-d-un-quartier-4-6-les-premiers-essuient-un-peu-les-platres-ou-la-lente-et-difficile-implantation-des-commerces-de-proximite-31267351.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "La start-up bordelaise Aqqi lève des fonds pour son IA d'achat immobilier",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/intelligence-artificielle-le-bordelais-aqqi-leve-des-fonds-pour-son-ia-d-achat-immobilier-31144817.php",
-      "published_label": "hier"
-    },
-    {
-      "title": "Héritage des baby-boomers : les villes où le choc démographique va faire chuter les prix",
+      "title": "Trêve hivernale : ce que peuvent encore faire les propriétaires après le 1er novembre",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/treve-hivernale-que-peuvent-encore-faire-les-proprietaires-apres-le-1er-novembre-20261101",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "81% des Français favorables à un allégement de la fiscalité pour les bailleurs",
+      "title": "Logement : préoccupation majeure des Français à 6 mois de la présidentielle",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/le-logement-preoccupation-majeure-des-francais-20261029",
+      "published_label": "il y a 3 jours"
+    },
+    {
+      "title": "81% des Français favorables à un allégement fiscal pour les bailleurs",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/on-s-endette-lourdement-pour-investir-dans-l-immobilier-pas-pour-vivre-a-dubai-les-francais-favorables-a-un-allegement-de-la-fiscalite-pour-les-bailleurs-20261029",
+      "published_label": "il y a 3 jours"
+    },
+    {
+      "title": "Bail réel solidaire : acheter un logement sans être propriétaire du terrain",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/31/peut-on-acheter-un-logement-sans-devenir-proprietaire-du-terrain_6803390_1657007.html",
       "published_label": "hier"
     },
     {
-      "title": "Le bail réel solidaire : acheter un logement sans être propriétaire du terrain",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/31/peut-on-acheter-un-logement-sans-devenir-proprietaire-du-terrain_6803390_1657007.html",
-      "published_label": "aujourd'hui"
+      "title": "Château de Grissac (Gironde) : un investisseur indonésien le transforme en hôtel de luxe",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/a-prignac-et-marcamps-un-investisseur-indonesien-redonne-vie-a-un-vieux-chateau-pour-en-faire-un-hotel-de-luxe-31304335.php",
+      "published_label": "avant-hier"
     }
   ]
 }
