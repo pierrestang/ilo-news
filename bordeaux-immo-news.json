@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-01T12:45:52.957Z",
+  "updated_at": "2026-11-02T14:54:02.642Z",
   "articles": [
     {
       "title": "Trêve hivernale : ce que peuvent encore faire les propriétaires après le 1er novembre",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/treve-hivernale-que-peuvent-encore-faire-les-proprietaires-apres-le-1er-novembre-20261101",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Logement : préoccupation majeure des Français à 6 mois de la présidentielle",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/le-logement-preoccupation-majeure-des-francais-20261029",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "81% des Français favorables à un allégement fiscal pour les bailleurs",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/on-s-endette-lourdement-pour-investir-dans-l-immobilier-pas-pour-vivre-a-dubai-les-francais-favorables-a-un-allegement-de-la-fiscalite-pour-les-bailleurs-20261029",
-      "published_label": "il y a 3 jours"
-    },
-    {
-      "title": "Bail réel solidaire : acheter un logement sans être propriétaire du terrain",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/31/peut-on-acheter-un-logement-sans-devenir-proprietaire-du-terrain_6803390_1657007.html",
       "published_label": "hier"
     },
     {
-      "title": "Château de Grissac (Gironde) : un investisseur indonésien le transforme en hôtel de luxe",
+      "title": "Logement indécent : pas forcément inhabitable ni cause de résiliation du bail",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/un-logement-indecent-n-est-pas-forcement-inhabitable-et-n-entraine-pas-toujours-la-resiliation-du-bail-20261102",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Peut-on acheter un logement sans devenir propriétaire du terrain ? Le bail réel solidaire",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/31/peut-on-acheter-un-logement-sans-devenir-proprietaire-du-terrain_6803390_1657007.html",
+      "published_label": "avant-hier"
+    },
+    {
+      "title": "Un château en Gironde racheté par un investisseur indonésien pour en faire un hôtel de luxe",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/a-prignac-et-marcamps-un-investisseur-indonesien-redonne-vie-a-un-vieux-chateau-pour-en-faire-un-hotel-de-luxe-31304335.php",
       "published_label": "avant-hier"
+    },
+    {
+      "title": "Novembre 2026 : hausse du gaz, nouvelles heures creuses… ce qui change pour les ménages",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/hausse-du-prix-du-gaz-aide-carburant-grand-rouleur-nouvelles-heures-creuses-ce-qui-change-en-novembre-2026-31330924.php",
+      "published_label": "hier"
     }
   ]
 }
