@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-11-03T13:43:07.051Z",
+  "updated_at": "2026-11-04T13:51:34.052Z",
   "articles": [
     {
       "title": "Immobilier en Nouvelle-Aquitaine : prix en hausse, maisons rares, le marché en révolution",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/immobilier-pourquoi-le-marche-de-l-ancien-est-en-pleine-revolution-en-region-31360014.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "BRS : le Bail réel solidaire séduit ménages modestes et promoteurs avec -30% sur le prix",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/brs-la-formule-immobiliere-a-petit-prix-qui-seduit-les-menages-modestes-et-les-promoteurs-20261104",
       "published_label": "aujourd'hui"
     },
     {
@@ -17,18 +23,12 @@
       "title": "Cambriolage d'un logement locatif : les risques financiers pour le propriétaire bailleur",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/le-cambriolage-d-un-logement-locatif-peut-couter-cher-a-son-proprietaire-20261103",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Logement indécent : pas forcément inhabitable ni motif de résiliation du bail",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-logement-indecent-n-est-pas-forcement-inhabitable-et-n-entraine-pas-toujours-la-resiliation-du-bail-20261102",
       "published_label": "hier"
     },
     {
-      "title": "Bailleurs sociaux : pourquoi ils se tournent de plus en plus vers des logements plus chers",
+      "title": "Héritage des baby-boomers : comment éviter la chute des prix de votre bien immobilier",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/pourquoi-les-bailleurs-sociaux-deviennent-de-moins-en-moins-sociaux-20261103",
+      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-quelle-est-la-meilleure-solution-pour-eviter-la-degringolade-du-prix-de-votre-logement-20261104",
       "published_label": "aujourd'hui"
     }
   ]
