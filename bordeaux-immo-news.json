@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-04T13:51:34.052Z",
+  "updated_at": "2026-11-05T14:05:12.217Z",
   "articles": [
     {
-      "title": "Immobilier en Nouvelle-Aquitaine : prix en hausse, maisons rares, le marché en révolution",
+      "title": "Immobilier en Nouvelle-Aquitaine : prix en hausse et raréfaction des maisons",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/immobilier-pourquoi-le-marche-de-l-ancien-est-en-pleine-revolution-en-region-31360014.php",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "BRS : le Bail réel solidaire séduit ménages modestes et promoteurs avec -30% sur le prix",
+      "title": "BRS : le Bail réel solidaire séduit ménages modestes et promoteurs",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/brs-la-formule-immobiliere-a-petit-prix-qui-seduit-les-menages-modestes-et-les-promoteurs-20261104",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Trêve hivernale : ce que peuvent encore faire les propriétaires après le 1er novembre",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/treve-hivernale-que-peuvent-encore-faire-les-proprietaires-apres-le-1er-novembre-20261101",
       "published_label": "hier"
     },
     {
-      "title": "Cambriolage d'un logement locatif : les risques financiers pour le propriétaire bailleur",
+      "title": "Locations Airbnb longue durée : un record historique atteint en Île-de-France",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Cambriolage d'un logement locatif : les risques financiers pour le propriétaire",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/le-cambriolage-d-un-logement-locatif-peut-couter-cher-a-son-proprietaire-20261103",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Héritage des baby-boomers : comment éviter la chute des prix de votre bien immobilier",
+      "title": "Logement indécent : pas forcément inhabitable ni motif de résiliation du bail",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-quelle-est-la-meilleure-solution-pour-eviter-la-degringolade-du-prix-de-votre-logement-20261104",
-      "published_label": "aujourd'hui"
+      "url": "https://immobilier.lefigaro.fr/article/un-logement-indecent-n-est-pas-forcement-inhabitable-et-n-entraine-pas-toujours-la-resiliation-du-bail-20261102",
+      "published_label": "il y a 3 jours"
     }
   ]
 }
