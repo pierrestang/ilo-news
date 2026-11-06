@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-05T14:05:12.217Z",
+  "updated_at": "2026-11-06T13:49:37.532Z",
   "articles": [
     {
-      "title": "Immobilier en Nouvelle-Aquitaine : prix en hausse et raréfaction des maisons",
+      "title": "Hausse des taux d'emprunt : le marché immobilier paralysé à près de 4 %",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/immobilier-pourquoi-le-marche-de-l-ancien-est-en-pleine-revolution-en-region-31360014.php",
-      "published_label": "il y a 2 jours"
+      "url": "https://www.sudouest.fr/economie/immobilier/immobilier-la-hausse-des-taux-d-emprunt-plombe-le-marche-et-complique-les-projets-d-achat-ou-de-vente-des-menages-31399020.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Fiscalité, coûts, pénurie : le grand désastre de l'immobilier en France",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
+      "published_label": "aujourd'hui"
     },
     {
       "title": "BRS : le Bail réel solidaire séduit ménages modestes et promoteurs",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/brs-la-formule-immobiliere-a-petit-prix-qui-seduit-les-menages-modestes-et-les-promoteurs-20261104",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "TGV Bordeaux-Toulouse : feu vert pour les travaux, liaison en 1h05 dès 2032",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest?at_medium=display&at_campaign=149",
       "published_label": "hier"
     },
     {
       "title": "Locations Airbnb longue durée : un record historique atteint en Île-de-France",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Cambriolage d'un logement locatif : les risques financiers pour le propriétaire",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/le-cambriolage-d-un-logement-locatif-peut-couter-cher-a-son-proprietaire-20261103",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Logement indécent : pas forcément inhabitable ni motif de résiliation du bail",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-logement-indecent-n-est-pas-forcement-inhabitable-et-n-entraine-pas-toujours-la-resiliation-du-bail-20261102",
-      "published_label": "il y a 3 jours"
+      "published_label": "hier"
     }
   ]
 }
