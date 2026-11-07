@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-06T13:49:37.532Z",
+  "updated_at": "2026-11-07T12:32:53.940Z",
   "articles": [
     {
-      "title": "Hausse des taux d'emprunt : le marché immobilier paralysé à près de 4 %",
+      "title": "Immobilier : la hausse des taux d'emprunt plombe le marché",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-la-hausse-des-taux-d-emprunt-plombe-le-marche-et-complique-les-projets-d-achat-ou-de-vente-des-menages-31399020.php",
       "published_label": "hier"
     },
     {
-      "title": "Fiscalité, coûts, pénurie : le grand désastre de l'immobilier en France",
+      "title": "Fiscalité, coûts de construction, manque de logements : le grand désastre de l'immobilier en France",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
+      "published_label": "hier"
+    },
+    {
+      "title": "Arcachon : avenir incertain pour la Casa Sylva achetée 12 M€ par Kresk immobilier",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-rien-n-est-encore-decide-pour-l-avenir-de-la-somptueuse-casa-sylva-achetee-l-hiver-dernier-12-millions-d-euros-par-le-groupe-kresk-immobilier-31415202.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Sud-Ouest : palmarès des villes et villages où il fait bon vivre",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/sud-ouest-notre-palmares-des-villes-et-villages-ou-couler-des-jours-paisibles-20261107",
       "published_label": "aujourd'hui"
     },
     {
-      "title": "BRS : le Bail réel solidaire séduit ménages modestes et promoteurs",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/brs-la-formule-immobiliere-a-petit-prix-qui-seduit-les-menages-modestes-et-les-promoteurs-20261104",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "TGV Bordeaux-Toulouse : feu vert pour les travaux, liaison en 1h05 dès 2032",
+      "title": "TGV Bordeaux-Toulouse : feu vert pour les travaux de la future ligne Sud-Ouest",
       "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest?at_medium=display&at_campaign=149",
-      "published_label": "hier"
-    },
-    {
-      "title": "Locations Airbnb longue durée : un record historique atteint en Île-de-France",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/05/en-ile-de-france-le-nombre-de-locations-airbnb-a-l-annee-a-atteint-un-record-en-2025_6806858_3234.html",
-      "published_label": "hier"
+      "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest",
+      "published_label": "il y a 2 jours"
     }
   ]
 }
