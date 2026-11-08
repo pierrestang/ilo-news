@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-07T12:32:53.940Z",
+  "updated_at": "2026-11-08T12:50:38.344Z",
   "articles": [
     {
-      "title": "Immobilier : la hausse des taux d'emprunt plombe le marché",
+      "title": "Immobilier : la hausse des taux d'emprunt frôlant 4% paralyse le marché",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/immobilier-la-hausse-des-taux-d-emprunt-plombe-le-marche-et-complique-les-projets-d-achat-ou-de-vente-des-menages-31399020.php",
-      "published_label": "hier"
+      "published_label": "il y a 3 jours"
     },
     {
-      "title": "Fiscalité, coûts de construction, manque de logements : le grand désastre de l'immobilier en France",
+      "title": "Immobilier : le spectre des taux à 5% menace les ventes de logements",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
-      "published_label": "hier"
-    },
-    {
-      "title": "Arcachon : avenir incertain pour la Casa Sylva achetée 12 M€ par Kresk immobilier",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-rien-n-est-encore-decide-pour-l-avenir-de-la-somptueuse-casa-sylva-achetee-l-hiver-dernier-12-millions-d-euros-par-le-groupe-kresk-immobilier-31415202.php",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/immobilier-le-spectre-des-taux-a-5-20261108",
+      "published_label": "ce matin"
     },
     {
       "title": "Sud-Ouest : palmarès des villes et villages où il fait bon vivre",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/sud-ouest-notre-palmares-des-villes-et-villages-ou-couler-des-jours-paisibles-20261107",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "TGV Bordeaux-Toulouse : feu vert pour les travaux de la future ligne Sud-Ouest",
-      "source": "20 Minutes Bordeaux",
-      "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest",
+      "title": "Fiscalité, construction, pénurie : le grand désastre de l'immobilier en France",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
       "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "TGV Bordeaux-Toulouse : feu vert pour les travaux, liaison en 1h05 dès 2032",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest?at_medium=display&at_campaign=149",
+      "published_label": "il y a 3 jours"
     }
   ]
 }
