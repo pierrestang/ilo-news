@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-09T15:21:25.529Z",
+  "updated_at": "2026-11-10T14:26:01.868Z",
   "articles": [
     {
       "title": "Immobilier : le spectre des taux à 5%",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/immobilier-le-spectre-des-taux-a-5-20261108",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
       "title": "Crédit immobilier : la hausse des taux pénalise les plus modestes",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/11/09/credit-immobilier-la-hausse-des-taux-penalise-les-plus-modestes_6808606_1657007.html",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Sud-Ouest : palmarès des villes et villages où couler des jours paisibles",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/sud-ouest-notre-palmares-des-villes-et-villages-ou-couler-des-jours-paisibles-20261107",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Arcachon : l'avenir incertain de la Casa Sylva achetée 12 M€ par Kresk immobilier",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-rien-n-est-encore-decide-pour-l-avenir-de-la-somptueuse-casa-sylva-achetee-l-hiver-dernier-12-millions-d-euros-par-le-groupe-kresk-immobilier-31415202.php",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Logement : premier poste de dépense des ménages, au cœur des préoccupations françaises",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/colere-contre-la-vie-chere-le-logement-premier-poste-de-depense-des-menages-est-au-coeur-des-preoccupations-des-francais-31439405.php",
       "published_label": "hier"
+    },
+    {
+      "title": "7 millions d'euros : vente d'exception pour la villa Les Chaumettes à Arcachon",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/arcachon/7-millions-d-euros-vente-d-exception-a-arcachon-pour-l-historique-villa-les-chaumettes-31460680.php",
+      "published_label": "hier"
+    },
+    {
+      "title": "Fiscalité, coûts de construction, manque de logements : le grand désastre de l'immobilier en France",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
+      "published_label": "hier"
+    },
+    {
+      "title": "Locations à l'année sur Airbnb : pourquoi ce n'est pas forcément illégal",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/52-en-deux-ans-pourquoi-ces-logements-loues-a-l-annee-sur-airbnb-tres-prises-par-les-proprietaires-ne-sont-pas-forcement-illegaux-20261110",
+      "published_label": "ce matin"
     }
   ]
 }
