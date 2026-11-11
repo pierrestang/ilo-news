@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-10T14:26:01.868Z",
+  "updated_at": "2026-11-11T13:39:37.371Z",
   "articles": [
     {
-      "title": "Immobilier : le spectre des taux à 5%",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/immobilier-le-spectre-des-taux-a-5-20261108",
-      "published_label": "il y a 2 jours"
+      "title": "Immobilier : les transactions ralentissent sur fond de hausse des taux",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/11/immobilier-les-transactions-ralentissent-sur-fond-de-hausse-des-taux-d-interet_6808945_3234.html",
+      "published_label": "aujourd'hui"
     },
     {
       "title": "Crédit immobilier : la hausse des taux pénalise les plus modestes",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/argent/article/2026/11/09/credit-immobilier-la-hausse-des-taux-penalise-les-plus-modestes_6808606_1657007.html",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "7 millions d'euros : vente d'exception pour la villa Les Chaumettes à Arcachon",
+      "title": "Encadrement des loyers : ces annonces à plus de 200 €/m² qui restent légales",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/malgre-l-encadrement-des-loyers-ces-annonces-dont-les-tarifs-peuvent-depasser-200-m2-sont-tout-a-fait-legales-20261111",
+      "published_label": "aujourd'hui"
+    },
+    {
+      "title": "Vente d'exception à Arcachon : la villa Les Chaumettes cédée pour 7 millions d'euros",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/arcachon/7-millions-d-euros-vente-d-exception-a-arcachon-pour-l-historique-villa-les-chaumettes-31460680.php",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Fiscalité, coûts de construction, manque de logements : le grand désastre de l'immobilier en France",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/fiscalite-couts-de-construction-manque-de-logements-le-grand-desastre-de-l-immobilier-en-france-20261106",
+      "title": "Gironde : lancement d'une usine de batteries près de Bordeaux, 500 emplois à la clé",
+      "source": "20 Minutes Bordeaux",
+      "url": "https://www.20minutes.fr/economie/4262027-20261110-gironde-lancement-projet-usine-production-materiaux-batteries-electriques-pres-bordeaux?at_medium=display&at_campaign=149",
       "published_label": "hier"
-    },
-    {
-      "title": "Locations à l'année sur Airbnb : pourquoi ce n'est pas forcément illégal",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/52-en-deux-ans-pourquoi-ces-logements-loues-a-l-annee-sur-airbnb-tres-prises-par-les-proprietaires-ne-sont-pas-forcement-illegaux-20261110",
-      "published_label": "ce matin"
     }
   ]
 }
