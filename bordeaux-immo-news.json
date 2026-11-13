@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12T14:42:55.392Z",
+  "updated_at": "2026-11-13T13:59:48.854Z",
   "articles": [
     {
-      "title": "Promoteurs immobiliers : les réservations de logements neufs reculent de 24,4 %",
+      "title": "Crise immobilière : les promoteurs s'enfoncent, -24% de réservations au T3",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/economie/article/2026/11/12/logements-les-promoteurs-immobiliers-s-enfoncent-un-peu-plus-dans-la-crise_6809079_3234.html",
-      "published_label": "ce matin"
+      "published_label": "hier"
     },
     {
       "title": "Immobilier : transactions en recul, taux en hausse, marché locatif bloqué",
@@ -14,21 +14,21 @@
       "published_label": "hier"
     },
     {
-      "title": "Crise immobilière : pourquoi le gouvernement refuse d'assouplir le taux d'endettement à 35 %",
+      "title": "Crédit immobilier : pourquoi le gouvernement refuse d'assouplir le taux d'endettement à 35%",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/la-crise-immobiliere-sera-plus-brutale-que-celle-de-2022-pourquoi-le-gouvernement-refuse-d-assouplir-la-contrainte-pour-obtenir-un-credit-20261112",
-      "published_label": "ce matin"
+      "published_label": "hier"
     },
     {
-      "title": "Vente d'exception à Arcachon : la villa Les Chaumettes cédée pour 7 millions d'euros",
+      "title": "Immobilier au Pays basque : pourquoi les prix restent élevés malgré la baisse",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/arcachon/7-millions-d-euros-vente-d-exception-a-arcachon-pour-l-historique-villa-les-chaumettes-31460680.php",
-      "published_label": "il y a 3 jours"
+      "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/immobilier-au-pays-basque-on-est-dans-un-territoire-dynamique-et-desirable-pourquoi-les-prix-restent-eleves-31460991.php",
+      "published_label": "hier"
     },
     {
-      "title": "Locations annuelles sur Airbnb en hausse de 52 % : ce que c'est vraiment",
+      "title": "Encadrement des loyers : ces annonces légales à plus de 200 €/m²",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/52-en-deux-ans-pourquoi-ces-logements-loues-a-l-annee-sur-airbnb-tres-prises-par-les-proprietaires-ne-sont-pas-forcement-illegaux-20261110",
+      "url": "https://immobilier.lefigaro.fr/article/malgre-l-encadrement-des-loyers-ces-annonces-dont-les-tarifs-peuvent-depasser-200-m2-sont-tout-a-fait-legales-20261111",
       "published_label": "hier"
     }
   ]
