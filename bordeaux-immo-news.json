@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-13T13:59:48.854Z",
+  "updated_at": "2026-11-14T13:02:08.325Z",
   "articles": [
     {
-      "title": "Crise immobilière : les promoteurs s'enfoncent, -24% de réservations au T3",
+      "title": "Crise immobilière : le gouvernement refuse d'assouplir le taux d'endettement à 35%",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-crise-immobiliere-sera-plus-brutale-que-celle-de-2022-pourquoi-le-gouvernement-refuse-d-assouplir-la-contrainte-pour-obtenir-un-credit-20261112",
+      "published_label": "hier"
+    },
+    {
+      "title": "Promoteurs immobiliers : les réservations de logements neufs chutent de 24,4%",
       "source": "Le Monde Immobilier",
       "url": "https://www.lemonde.fr/economie/article/2026/11/12/logements-les-promoteurs-immobiliers-s-enfoncent-un-peu-plus-dans-la-crise_6809079_3234.html",
       "published_label": "hier"
     },
     {
-      "title": "Immobilier : transactions en recul, taux en hausse, marché locatif bloqué",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/11/immobilier-les-transactions-ralentissent-sur-fond-de-hausse-des-taux-d-interet_6808945_3234.html",
-      "published_label": "hier"
-    },
-    {
-      "title": "Crédit immobilier : pourquoi le gouvernement refuse d'assouplir le taux d'endettement à 35%",
+      "title": "Les erreurs de Macron qui ont précipité le logement dans une crise sévère",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/la-crise-immobiliere-sera-plus-brutale-que-celle-de-2022-pourquoi-le-gouvernement-refuse-d-assouplir-la-contrainte-pour-obtenir-un-credit-20261112",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/il-faut-rayer-le-macronisme-de-l-immobilier-ce-rapport-qui-etrille-dix-ans-de-politique-du-logement-20261113",
+      "published_label": "aujourd'hui"
     },
     {
       "title": "Immobilier au Pays basque : pourquoi les prix restent élevés malgré la baisse",
@@ -26,10 +26,10 @@
       "published_label": "hier"
     },
     {
-      "title": "Encadrement des loyers : ces annonces légales à plus de 200 €/m²",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/malgre-l-encadrement-des-loyers-ces-annonces-dont-les-tarifs-peuvent-depasser-200-m2-sont-tout-a-fait-legales-20261111",
-      "published_label": "hier"
+      "title": "Bordeaux : le salon de l'habitat Home de retour au Parc des expositions",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-le-salon-de-l-habitat-home-revient-au-parc-des-expositions-31492208.php",
+      "published_label": "avant-hier"
     }
   ]
 }
