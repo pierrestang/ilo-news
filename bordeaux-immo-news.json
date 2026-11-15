@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-14T13:02:08.325Z",
+  "updated_at": "2026-11-15T13:30:17.225Z",
   "articles": [
     {
-      "title": "Crise immobilière : le gouvernement refuse d'assouplir le taux d'endettement à 35%",
+      "title": "Crise immobilière : pourquoi le gouvernement refuse d'assouplir le taux d'endettement à 35%",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/la-crise-immobiliere-sera-plus-brutale-que-celle-de-2022-pourquoi-le-gouvernement-refuse-d-assouplir-la-contrainte-pour-obtenir-un-credit-20261112",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Promoteurs immobiliers : les réservations de logements neufs chutent de 24,4%",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/12/logements-les-promoteurs-immobiliers-s-enfoncent-un-peu-plus-dans-la-crise_6809079_3234.html",
-      "published_label": "hier"
-    },
-    {
-      "title": "Les erreurs de Macron qui ont précipité le logement dans une crise sévère",
+      "title": "Les deux erreurs de Macron qui ont précipité le logement dans une crise sévère",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/il-faut-rayer-le-macronisme-de-l-immobilier-ce-rapport-qui-etrille-dix-ans-de-politique-du-logement-20261113",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Immobilier au Pays basque : pourquoi les prix restent élevés malgré la baisse",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/immobilier-au-pays-basque-on-est-dans-un-territoire-dynamique-et-desirable-pourquoi-les-prix-restent-eleves-31460991.php",
       "published_label": "hier"
     },
     {
-      "title": "Bordeaux : le salon de l'habitat Home de retour au Parc des expositions",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-le-salon-de-l-habitat-home-revient-au-parc-des-expositions-31492208.php",
-      "published_label": "avant-hier"
+      "title": "Mélenchon et la propriété privée : réquisitions, taxe foncière progressive, résidences secondaires",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Sommes reçues des promoteurs en échange d'un désistement de recours : faut-il les déclarer ?",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/15/immobilier-les-sommes-recues-des-promoteurs-en-echange-du-desistement-d-un-recours-contre-leur-permis-de-construire-doivent-elles-etre-declarees-au-fisc_6810993_1657007.html",
+      "published_label": "ce matin"
+    },
+    {
+      "title": "Logement : faciliter l'accès et accélérer la rénovation — les enseignements du baromètre Qualitel",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/logement-faciliter-l-acces-accelerer-la-renovation-20261113",
+      "published_label": "hier"
     }
   ]
 }
