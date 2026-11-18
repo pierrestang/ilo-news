@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-17T15:34:17.995Z",
+  "updated_at": "2026-11-18T15:12:11.939Z",
   "articles": [
+    {
+      "title": "Passoires thermiques : l'interdiction de louer supprimée par un amendement RN",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/immobilier/passoires-thermiques-l-interdiction-de-louer-supprimee-par-un-amendement-rn-les-locataires-inquiets-31572030.php",
+      "published_label": "ce matin"
+    },
     {
       "title": "Crise du logement : le projet de loi examiné à l'Assemblée nationale",
       "source": "Sud Ouest",
@@ -14,22 +20,16 @@
       "published_label": "il y a 2 jours"
     },
     {
-      "title": "Les Français préfèrent les villes moyennes aux métropoles, selon l'OCDE",
+      "title": "Les Français plus attirés par les villes moyennes que par les métropoles (OCDE)",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/cette-etude-de-l-ocde-confirme-que-les-francais-sont-plus-attires-par-les-villes-moyennes-que-par-les-metropoles-20261117",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     },
     {
-      "title": "Suppression des frais de notaires : une proposition qui revient en campagne électorale",
+      "title": "Suppression des frais de notaires : une promesse électorale qui refait surface",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/la-suppression-des-frais-de-notaires-s-invite-encore-dans-la-campagne-electorale-20261117",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Mélenchon : réquisitions, taxe foncière progressive, résidences secondaires visées",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/requisitions-taxe-fonciere-progressive-residences-secondaires-en-sursis-comment-melenchon-veut-administrer-la-propriete-privee-20261115",
-      "published_label": "il y a 2 jours"
+      "published_label": "hier"
     }
   ]
 }
