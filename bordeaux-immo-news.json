@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-19T15:20:00.696Z",
+  "updated_at": "2026-11-20T14:58:03.588Z",
   "articles": [
+    {
+      "title": "Encadrement des loyers : prolongation de 2 ans votée, le ministre réservé",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/encadrement-des-loyers-le-prolongement-du-dispositif-est-une-mauvaise-nouvelle-selon-le-ministre-du-logement-vincent-jeanbrun-31594259.php",
+      "published_label": "ce matin"
+    },
     {
       "title": "Passoires thermiques : l'interdiction de louer supprimée par un amendement RN",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier/passoires-thermiques-l-interdiction-de-louer-supprimee-par-un-amendement-rn-les-locataires-inquiets-31572030.php",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Encadrement des loyers : le prolongement de deux ans suspendu à l'Assemblée nationale",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/encadrement-des-loyers-le-prolongement-de-deux-ans-attendra-l-examen-suspendu-apres-une-seance-electrique-a-l-assemblee-nationale-31582324.php",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Édouard Philippe veut geler l'interdiction de louer des passoires thermiques pendant 5 ans",
+      "title": "Édouard Philippe veut geler 5 ans l'interdiction de louer des passoires thermiques",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/edouard-philippe-veut-geler-l-interdiction-des-passoires-thermiques-pendant-5-ans-20261119",
+      "published_label": "hier"
+    },
+    {
+      "title": "Crise du logement en Europe : construction, fiscalité, loyers plafonnés… comment y faire face ?",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/crise-du-logement-construction-avantages-fiscaux-loyers-plafonnes-il-devient-de-plus-en-plus-difficile-de-se-loger-en-europe-comment-les-pays-font-ils-face-31592764.php",
       "published_label": "ce matin"
     },
     {
-      "title": "Les Français plus attirés par les villes moyennes que par les métropoles, selon l'OCDE",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/cette-etude-de-l-ocde-confirme-que-les-francais-sont-plus-attires-par-les-villes-moyennes-que-par-les-metropoles-20261117",
-      "published_label": "il y a 2 jours"
-    },
-    {
-      "title": "Logement social en Nouvelle-Aquitaine : s'adapter au climat avec des financements en berne",
+      "title": "Logement social en Nouvelle-Aquitaine : adaptation au climat et financements en berne",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/rendez-vous-sud-ouest-canicule-financements-en-berne-comment-le-logement-social-s-adapte-au-climat-31575475.php",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     }
   ]
 }
