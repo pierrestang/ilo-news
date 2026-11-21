@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-20T14:58:03.588Z",
+  "updated_at": "2026-11-21T14:18:10.061Z",
   "articles": [
     {
-      "title": "Encadrement des loyers : prolongation de 2 ans votée, le ministre réservé",
+      "title": "Encadrement des loyers prolongé de 2 ans : une mauvaise nouvelle selon le ministre",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/societe/logement/encadrement-des-loyers-le-prolongement-du-dispositif-est-une-mauvaise-nouvelle-selon-le-ministre-du-logement-vincent-jeanbrun-31594259.php",
-      "published_label": "ce matin"
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Passoires thermiques : l'interdiction de louer supprimée par un amendement RN",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier/passoires-thermiques-l-interdiction-de-louer-supprimee-par-un-amendement-rn-les-locataires-inquiets-31572030.php",
-      "published_label": "avant-hier"
-    },
-    {
-      "title": "Édouard Philippe veut geler 5 ans l'interdiction de louer des passoires thermiques",
+      "title": "Passoires thermiques : Édouard Philippe veut geler l'interdiction de louer pendant 5 ans",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/edouard-philippe-veut-geler-l-interdiction-des-passoires-thermiques-pendant-5-ans-20261119",
       "published_label": "hier"
     },
     {
-      "title": "Crise du logement en Europe : construction, fiscalité, loyers plafonnés… comment y faire face ?",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/crise-du-logement-construction-avantages-fiscaux-loyers-plafonnes-il-devient-de-plus-en-plus-difficile-de-se-loger-en-europe-comment-les-pays-font-ils-face-31592764.php",
-      "published_label": "ce matin"
-    },
-    {
-      "title": "Logement social en Nouvelle-Aquitaine : adaptation au climat et financements en berne",
+      "title": "Logement social et canicule : comment la Nouvelle-Aquitaine s'adapte au climat",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/gironde/bordeaux/rendez-vous-sud-ouest-canicule-financements-en-berne-comment-le-logement-social-s-adapte-au-climat-31575475.php",
-      "published_label": "avant-hier"
+      "published_label": "hier"
+    },
+    {
+      "title": "Propriétaire condamné à rembourser 75 000 € pour loyer surévalué de 2 000 €/mois",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/ce-proprietaire-doit-rembourser-pres-de-75-000-euros-au-locataire-pour-un-loyer-surevalue-de-2000-euros-par-mois-20261119",
+      "published_label": "hier"
+    },
+    {
+      "title": "Nexity inaugure à Lyon un immeuble sans climatisation ni chauffage",
+      "source": "Le Monde Immobilier",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/a-lyon-le-promoteur-immobilier-nexity-livre-des-logements-concus-sans-climatisation-ni-chauffage_6813342_3234.html",
+      "published_label": "hier"
     }
   ]
 }
