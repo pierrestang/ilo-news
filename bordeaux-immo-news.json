@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-21T14:18:10.061Z",
+  "updated_at": "2026-11-22T14:09:03.299Z",
   "articles": [
     {
-      "title": "Encadrement des loyers prolongé de 2 ans : une mauvaise nouvelle selon le ministre",
+      "title": "Encadrement des loyers prolongé 2 ans : une mauvaise nouvelle selon le ministre",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/societe/logement/encadrement-des-loyers-le-prolongement-du-dispositif-est-une-mauvaise-nouvelle-selon-le-ministre-du-logement-vincent-jeanbrun-31594259.php",
-      "published_label": "aujourd'hui"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Passoires thermiques : Édouard Philippe veut geler l'interdiction de louer pendant 5 ans",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/edouard-philippe-veut-geler-l-interdiction-des-passoires-thermiques-pendant-5-ans-20261119",
-      "published_label": "hier"
-    },
-    {
-      "title": "Logement social et canicule : comment la Nouvelle-Aquitaine s'adapte au climat",
+      "title": "Passoires thermiques : Édouard Philippe veut suspendre l'interdiction de location",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/bordeaux/rendez-vous-sud-ouest-canicule-financements-en-berne-comment-le-logement-social-s-adapte-au-climat-31575475.php",
-      "published_label": "hier"
+      "url": "https://www.sudouest.fr/politique/presidentielle-2027-edouard-philippe-veut-mettre-en-pause-l-interdiction-de-location-des-passoires-thermiques-31588161.php",
+      "published_label": "il y a 3 jours"
+    },
+    {
+      "title": "Encadrement des loyers : une fausse bonne idée qui plombe les propriétaires",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/un-loyer-plafonne-sur-un-logement-qui-n-existe-plus-ne-protege-personne-cette-fausse-bonne-idee-plombe-le-moral-des-proprietaires-20261120",
+      "published_label": "il y a 2 jours"
     },
     {
       "title": "Propriétaire condamné à rembourser 75 000 € pour loyer surévalué de 2 000 €/mois",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/ce-proprietaire-doit-rembourser-pres-de-75-000-euros-au-locataire-pour-un-loyer-surevalue-de-2000-euros-par-mois-20261119",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Nexity inaugure à Lyon un immeuble sans climatisation ni chauffage",
-      "source": "Le Monde Immobilier",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/19/a-lyon-le-promoteur-immobilier-nexity-livre-des-logements-concus-sans-climatisation-ni-chauffage_6813342_3234.html",
-      "published_label": "hier"
+      "title": "Crise du logement en Europe : construction, fiscalité, loyers plafonnés, les réponses",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/crise-du-logement-construction-avantages-fiscaux-loyers-plafonnes-il-devient-de-plus-en-plus-difficile-de-se-loger-en-europe-comment-les-pays-font-ils-face-31592764.php",
+      "published_label": "il y a 2 jours"
     }
   ]
 }
