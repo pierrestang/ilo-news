@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-23T17:30:33.460Z",
+  "updated_at": "2026-11-24T17:02:04.684Z",
   "articles": [
+    {
+      "title": "Les prix des logements anciens reculent de 1,2 % au 3e trimestre 2026",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/economie/immobilier-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026-31649843.php",
+      "published_label": "aujourd'hui"
+    },
     {
       "title": "Pays basque : l'encadrement des loyers prolongé pour 2 ans",
       "source": "Sud Ouest",
@@ -8,28 +14,22 @@
       "published_label": "hier"
     },
     {
-      "title": "Encadrement des loyers : une \"fausse bonne idée\" qui plombe les propriétaires",
+      "title": "Encadrement des loyers : le délai pour contester passe de 3 ans à 1 an",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/un-loyer-plafonne-sur-un-logement-qui-n-existe-plus-ne-protege-personne-cette-fausse-bonne-idee-plombe-le-moral-des-proprietaires-20261120",
-      "published_label": "hier"
+      "url": "https://immobilier.lefigaro.fr/article/encadrement-des-loyers-les-locataires-dont-le-loyer-depasse-le-plafond-n-auront-plus-qu-un-an-pour-agir-contre-le-proprietaire-20261124",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Passoires thermiques : Édouard Philippe veut un moratoire de 5 ans sur les interdictions de louer",
+      "title": "Passoires thermiques : Édouard Philippe veut geler les interdictions de louer 5 ans",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/edouard-philippe-veut-geler-l-interdiction-des-passoires-thermiques-pendant-5-ans-20261119",
       "published_label": "hier"
     },
     {
-      "title": "Simulateur gratuit pour tester la vulnérabilité de votre maison aux fissures d'argile",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/ce-simulateur-public-et-gratuit-permet-de-tester-en-5-minutes-la-vulnerabilite-de-votre-maison-aux-fissures-dues-a-l-argile-20261123",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Divorce et crédit immobilier avantageux : qui doit indemniser l'autre ?",
+      "title": "Divorce et crédit immobilier avantageux : la question de l'indemnisation se pose",
       "source": "Le Figaro Immobilier",
       "url": "https://immobilier.lefigaro.fr/article/mon-divorce-me-fait-perdre-un-taux-de-credit-immobilier-tres-avantageux-je-compte-bien-etre-indemnise-ce-sujet-epineux-que-le-droit-n-a-pas-encore-tranche-20261123",
-      "published_label": "aujourd'hui"
+      "published_label": "hier"
     }
   ]
 }
