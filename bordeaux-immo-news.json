@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-25T16:52:11.473Z",
+  "updated_at": "2026-11-26T16:29:35.394Z",
   "articles": [
     {
       "title": "Immobilier : les prix des logements anciens reculent de 1,2 % au T3 2026",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/economie/immobilier-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026-31649843.php",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "Passoires thermiques : le gouvernement refuse de supprimer l'interdiction de louer",
+      "source": "Sud Ouest",
+      "url": "https://www.sudouest.fr/societe/logement/passoires-energetiques-le-gouvernement-ne-portera-pas-la-suppression-de-l-interdiction-de-louer-defendue-par-le-rn-assure-vincent-jeanbrun-31663942.php",
       "published_label": "hier"
     },
     {
-      "title": "Passoires thermiques : le gouvernement refuse la suppression de l'interdiction de louer",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/defendue-par-le-rn-l-interdiction-de-louer-des-passoires-thermiques-ne-sera-pas-portee-par-le-gouvernement-20261125",
-      "published_label": "aujourd'hui"
-    },
-    {
-      "title": "Encadrement des loyers : le délai pour contester un loyer excessif réduit à 1 an",
-      "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/encadrement-des-loyers-les-locataires-dont-le-loyer-depasse-le-plafond-n-auront-plus-qu-un-an-pour-agir-contre-le-proprietaire-20261124",
-      "published_label": "hier"
-    },
-    {
-      "title": "Loi de relance du logement adoptée en première lecture à l'Assemblée nationale",
+      "title": "Crise du logement : l'Assemblée adopte en première lecture le projet de loi de relance",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/societe/logement/crise-du-logement-l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-31656872.php",
-      "published_label": "hier"
+      "published_label": "il y a 2 jours"
     },
     {
-      "title": "Le Porge : dispositif inédit voté pour reconstruire les maisons détruites par les incendies",
+      "title": "Encadrement des loyers : le délai pour contester réduit à un an",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/encadrement-des-loyers-les-locataires-dont-le-loyer-depasse-le-plafond-n-auront-plus-qu-un-an-pour-agir-contre-le-proprietaire-20261124",
+      "published_label": "il y a 2 jours"
+    },
+    {
+      "title": "78 logements en projet à Mios : réunion publique pour rassurer les riverains",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/gironde/le-porge/le-porge-un-dispositif-inedit-en-france-vote-pour-reconstruire-les-maisons-detruites-par-les-incendies-31650233.php",
+      "url": "https://www.sudouest.fr/societe/logement/plus-de-70-logements-en-projet-a-mios-une-reunion-publique-pour-rassurer-les-riverains-31664045.php",
       "published_label": "hier"
     }
   ]
