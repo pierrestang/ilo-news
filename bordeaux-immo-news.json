@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-26T16:29:35.394Z",
+  "updated_at": "2026-11-27T16:15:08.616Z",
   "articles": [
     {
-      "title": "Immobilier : les prix des logements anciens reculent de 1,2 % au T3 2026",
+      "title": "Budget 2027 : le Sénat vote une baisse de TVA à 5,5 % pour l'investissement locatif",
       "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/economie/immobilier-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026-31649843.php",
-      "published_label": "il y a 2 jours"
+      "url": "https://www.sudouest.fr/economie/immobilier/budget-2027-pour-tenter-de-relancer-l-investissement-locatif-le-senat-vote-une-baisse-de-tva-a-5-5-31693120.php",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "Passoires thermiques : le gouvernement refuse de supprimer l'interdiction de louer",
+      "title": "Passoires thermiques : le gouvernement maintient l'interdiction de louer malgré le RN",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/societe/logement/passoires-energetiques-le-gouvernement-ne-portera-pas-la-suppression-de-l-interdiction-de-louer-defendue-par-le-rn-assure-vincent-jeanbrun-31663942.php",
-      "published_label": "hier"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Crise du logement : l'Assemblée adopte en première lecture le projet de loi de relance",
+      "title": "Crise du logement : l'Assemblée nationale adopte en première lecture le projet de loi de relance",
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/societe/logement/crise-du-logement-l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-31656872.php",
-      "published_label": "il y a 2 jours"
+      "published_label": "avant-hier"
     },
     {
-      "title": "Encadrement des loyers : le délai pour contester réduit à un an",
+      "title": "Dispositif Jeanbrun : pourquoi il n'est pas rentable pour les studios de moins de 30 m²",
       "source": "Le Figaro Immobilier",
-      "url": "https://immobilier.lefigaro.fr/article/encadrement-des-loyers-les-locataires-dont-le-loyer-depasse-le-plafond-n-auront-plus-qu-un-an-pour-agir-contre-le-proprietaire-20261124",
-      "published_label": "il y a 2 jours"
+      "url": "https://immobilier.lefigaro.fr/article/investissement-locatif-le-dispositif-d-incitation-fiscale-jeanbrun-n-est-pas-interessant-pour-les-petites-surfaces-20261127",
+      "published_label": "aujourd'hui"
     },
     {
-      "title": "78 logements en projet à Mios : réunion publique pour rassurer les riverains",
-      "source": "Sud Ouest",
-      "url": "https://www.sudouest.fr/societe/logement/plus-de-70-logements-en-projet-a-mios-une-reunion-publique-pour-rassurer-les-riverains-31664045.php",
-      "published_label": "hier"
+      "title": "Encadrement des loyers : une faille préfectorale permet à certains propriétaires de le contourner",
+      "source": "Le Figaro Immobilier",
+      "url": "https://immobilier.lefigaro.fr/article/la-bevue-des-prefets-qui-permet-aux-proprietaires-d-eviter-l-encadrement-des-loyers-20261126",
+      "published_label": "aujourd'hui"
     }
   ]
 }
